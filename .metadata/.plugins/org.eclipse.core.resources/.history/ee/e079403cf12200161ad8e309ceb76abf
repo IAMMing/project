@@ -1,0 +1,23 @@
+package cn.simple.annotation;
+
+/**
+ * 防止重复提交拦截器
+ * 
+ * @author ldm
+ * @version 20160526
+ */
+public @interface AvoidDuplicateSubmissionInterceptor {
+	/**
+	 * 在包含有表单的请求地址需要生成并保存当前请求token 需要为相应的方法加上注解
+	 * 
+	 * @return
+	 */
+	boolean saveToken() default false;
+
+	/**
+	 * 在一次提交后，完成验证后，需要移除当前请求的token
+	 * 
+	 * @return
+	 */
+	boolean removeToken() default false;
+}

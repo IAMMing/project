@@ -1,0 +1,62 @@
+package cn.simple.token;
+
+import java.util.Map;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpSession;
+
+import org.apache.commons.lang.StringUtils;
+
+public class SessionTokenProcesser extends TokenProcesser {
+
+	@Override
+	public boolean validToken(HttpServletRequest request) {
+
+		String clientToken = getClientToken(request);
+		if (StringUtils.isEmpty(clientToken)) {
+			return false;
+		}
+		HttpSession session = request.getSession(false);
+		if(session==null)
+		{
+			return false;
+		}
+		String tokenKey = getTokenKey(request);
+		String serverToken = session.getAttribute(tokenKey).toString();
+		
+		return clientToken.equals(serverToken);
+
+	}
+
+	@Override
+	public String getTokenKey(HttpServletRequest request) {
+		return getTokenField();
+	}
+
+	@Override
+	public String getClientToken(HttpServletRequest request) {
+		Map parameterMap = request.getParameterMap();
+		if (parameterMap.isEmpty()) {
+			return null;
+		}
+
+		String tokenKey = getTokenKey(request);
+		if (!parameterMap.containsKey(tokenKey)) {
+			return null;
+		}
+
+		return parameterMap.get(tokenKey).toString();
+	}
+
+	@Override
+	public void saveToken(HttpServletRequest request) {
+
+		String token = makeToken();
+		// 服务端保存token
+		HttpSession session = request.getSession();
+		session.setAttribute(getTokenKey(request), token);
+		
+		request.setAttribute(getTokenField(), token);
+	}
+
+}

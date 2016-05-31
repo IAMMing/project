@@ -1,0 +1,27 @@
+package cn.simple.token.helper;
+
+import java.util.Random;
+
+/**
+ * 生成token 全局单例
+ * 
+ * @author ldm
+ * @version 20160526
+ */
+public class MakeToken {
+
+	Random random = new Random();
+
+	private MakeToken() {
+	}
+
+	/**
+	 * 获取token
+	 * 
+	 * @return
+	 */
+	public String getToken() {
+		String raw = System.currentTimeMillis() + random.nextInt(9999) + "";
+		return raw;
+	}
+}

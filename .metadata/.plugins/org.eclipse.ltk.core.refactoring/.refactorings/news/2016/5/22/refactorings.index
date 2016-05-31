@@ -1,0 +1,42 @@
+1464141786855	Delete element
+1464143021464	Delete element
+1464160768388	Rename type 'Test'
+1464161763625	Copy file
+1464161857004	Delete element
+1464161865720	Copy file
+1464161935276	Copy file
+1464162359671	Extract local variable 'target'
+1464162383661	Extract local variable 'args'
+1464233035263	Rename type 'AvoidDuplicateSubmissionInterceptor'
+1464233334517	Extract local variable 'annotation'
+1464233386576	Extract local variable 'saveToken'
+1464233408938	Extract local variable 'removeToken'
+1464234316961	Extract local variable 'random'
+1464240301279	Extract local variable 'session'
+1464240678096	Extract local variable 'parameterMap'
+1464240730783	Extract local variable 'session'
+1464240859464	Rename method 'getToken'
+1464241353392	Extract local variable 'tokenKey'
+1464241443645	Extract local variable 'clientToken'
+1464241488301	Extract local variable 'session'
+1464241588067	Extract local variable 'tokenKey'
+1464241599103	Extract local variable 'token'
+1464241618798	Extract local variable 'serverToken'
+1464241770350	Extract local variable 'token'
+1464241785646	Extract local variable 'session'
+1464242336021	Rename package 'cn.simple.tokenhelper'
+1464243192914	Move 'view' to 'WEB-INF'
+1464244772052	Extract local variable 'sessionTokenProcesser'
+1464244817182	Extract local variable 'validToken'
+1464246401176	Extract local variable 'token'
+1464266864064	Extract local variable 'declaringType'
+1464267067068	Extract local variable 'method'
+1464267085510	Extract local variable 'annotation'
+1464267141579	Extract local variable 'annotation'
+1464267159886	Extract local variable 'value'
+1464313044541	Extract local variable 'session'
+1464313129863	Extract local variable 'tokenKey'
+1464313226047	Extract local variable 'token'
+1464316111705	Move compilation unit
+1464318484200	Extract local variable 'cookies'
+1464318596843	Extract local variable 'session'

@@ -1,0 +1,14 @@
+package cn.simple.annotation;
+/**
+ * 
+ * @author admin
+ *
+ */
+public @interface AvoidDuplicateSubmissionInterceptor {
+	/**
+	 * 
+	 * @return
+	 */
+	boolean saveToken() default false;
+	boolean removeToken() default false;
+}

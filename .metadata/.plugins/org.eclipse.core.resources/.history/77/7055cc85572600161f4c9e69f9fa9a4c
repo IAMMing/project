@@ -1,0 +1,13 @@
+package org.dubbo.service;
+
+public class DemoService implements IDemoService {
+
+	public void sayHello(String name) {
+		System.out.println("hello " + name);
+	}
+
+	public String getInfo() {
+		return "this is service";
+	}
+
+}

@@ -1,0 +1,14 @@
+package cn.simple.token.helper;
+
+public class MakeToken {
+	
+	/**
+	 * 获取token
+	 * 
+	 * @return
+	 */
+	public String getToken() {
+		String raw = System.currentTimeMillis() + random.nextInt(9999) + "";
+		return raw;
+	}
+}

@@ -1,0 +1,35 @@
+package cn.simple.interceptor;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.springframework.web.method.HandlerMethod;
+import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
+
+import cn.simple.annotation.AvoidDuplicateSubmission;
+
+public class AvoidDuplicateSubmissionInterceptor extends HandlerInterceptorAdapter {
+
+	@Override
+	public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler)
+			throws Exception {
+
+		HandlerMethod handlerMethod = (HandlerMethod) handler;
+		AvoidDuplicateSubmission annotation = handlerMethod.getMethodAnnotation(AvoidDuplicateSubmission.class);
+		if (annotation != null) {
+			boolean saveToken = annotation.saveToken();
+			if(saveToken)
+			{
+				// 保存token
+				request.getSession(false);
+			}
+			
+			boolean removeToken = annotation.removeToken();
+			if(removeToken)
+			{}
+			return false;
+		} else {
+			return super.preHandle(request, response, handler);
+		}
+	}
+}

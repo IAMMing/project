@@ -1,0 +1,9 @@
+package org.dubbo.service;
+/**
+ * dubbo 示例服务端
+ * @author admin
+ *
+ */
+public interface IDemoService {
+	void sayHello(String name);
+}

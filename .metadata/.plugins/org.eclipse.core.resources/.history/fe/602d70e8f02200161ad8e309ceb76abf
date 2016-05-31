@@ -1,0 +1,6 @@
+package cn.simple.annotation;
+
+public @interface AvoidDuplicateSubmissionInterceptor {
+	boolean saveToken() default false;
+	boolean removeToken() default false;
+}

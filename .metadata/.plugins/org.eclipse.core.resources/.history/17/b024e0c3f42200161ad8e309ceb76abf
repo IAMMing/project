@@ -1,0 +1,30 @@
+package cn.simple.token;
+
+import java.util.Random;
+
+public abstract class TokenProcesser {
+	/**
+	 * token的名字字段 用于页面获取的键值
+	 */
+	private static final String TOKEN_NAME_FIELD = "submission.token";
+
+	private static Random random = new Random();
+
+	/**
+	 * 获取页面token键
+	 * 
+	 * @return
+	 */
+	public String getTokenField() {
+		return TOKEN_NAME_FIELD;
+	}
+
+	/**
+	 * 获取token
+	 * @return
+	 */
+	public String getToken() {
+		String raw = System.currentTimeMillis() + random.nextInt(9999) + "";
+		return "";
+	}
+}

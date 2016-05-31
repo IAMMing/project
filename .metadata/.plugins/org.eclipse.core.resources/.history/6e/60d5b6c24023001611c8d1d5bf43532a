@@ -1,0 +1,31 @@
+package cn.simple.interceptor;
+
+import java.lang.reflect.Method;
+
+import org.aspectj.lang.JoinPoint;
+import org.aspectj.lang.reflect.MethodSignature;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+public class TestAOP {
+	public void beforeTest() {
+		System.out.println("this is before");
+	}
+
+	public void afterTest(JoinPoint jp) {
+		System.out.println("this is after");
+		Object[] args = jp.getArgs();
+		System.out.println(jp.getTarget());
+
+		System.out.println(jp.getSignature().getDeclaringTypeName());
+		System.out.println("获取方法名：" + jp.getSignature().getName());
+
+		MethodSignature sign = (MethodSignature) jp.getSignature();
+		Method method = sign.getMethod();
+		 RequestMapping annotation = method.getAnnotation(RequestMapping.class);
+		if(annotation==null)
+			{System.out.println("annotation is null");}
+		String[] value = annotation.value();
+		System.out.println(value);
+	}
+}

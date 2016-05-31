@@ -1,0 +1,14 @@
+package org.dubbo.service;
+
+public class DemoService implements IDemoService {
+
+	public void sayHello(String name) {
+System.out.println();		
+	}
+
+	public String getInfo() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

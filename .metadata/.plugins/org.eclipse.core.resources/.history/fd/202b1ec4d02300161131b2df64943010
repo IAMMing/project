@@ -1,0 +1,8 @@
+package cn.simple.service;
+
+public class TestService {
+
+	public String testService() {
+		return "this is test service";
+	}
+}

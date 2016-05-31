@@ -1,0 +1,5 @@
+package org.dubbo.service;
+
+public class DemoService {
+
+}

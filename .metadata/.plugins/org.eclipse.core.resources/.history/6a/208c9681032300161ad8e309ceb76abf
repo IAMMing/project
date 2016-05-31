@@ -1,0 +1,43 @@
+package cn.simple.token;
+
+import java.util.Random;
+
+import javax.servlet.http.HttpServletRequest;
+
+public abstract class TokenProcesser {
+	/**
+	 * token的名字字段 用于页面获取的键值
+	 */
+	private static final String TOKEN_NAME_FIELD = "submission.token";
+
+	private static Random random = new Random();
+
+	/**
+	 * 获取页面token键
+	 * 
+	 * @return
+	 */
+	public String getTokenField() {
+		return TOKEN_NAME_FIELD;
+	}
+
+	/**
+	 * 获取token
+	 * @return
+	 */
+	public String makeToken() {
+		String raw = System.currentTimeMillis() + random.nextInt(9999) + "";
+		return raw;
+	}
+	/**
+	 * 判断当前请求是否合法
+	 * @return
+	 */
+	public abstract boolean validToken(HttpServletRequest request);
+	/**
+	 * 获取服务端token的key
+	 * @param request
+	 * @return
+	 */
+	public abstract String getTokenKey(HttpServletRequest request);
+}

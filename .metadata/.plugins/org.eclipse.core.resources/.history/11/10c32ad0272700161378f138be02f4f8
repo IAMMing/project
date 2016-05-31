@@ -1,0 +1,10 @@
+package org.dubbo.service;
+
+public class DemoTestImpl implements IDemoTest {
+
+	public String getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

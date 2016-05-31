@@ -1,0 +1,10 @@
+package org.dubbo.client;
+/**
+ * dubbo 示例服务端
+ * @author ldm
+ * @version 20150530
+ */
+public interface IDemoService {
+	void sayHello(String name);
+	String getInfo();
+}

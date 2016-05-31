@@ -1,0 +1,7 @@
+package cn.simple.interceptor;
+
+import org.springframework.aop.MethodBeforeAdvice;
+
+public class TestAop2 implements MethodBeforeAdvice {
+
+}

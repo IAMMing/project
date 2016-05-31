@@ -1,0 +1,14 @@
+package cn.simple.annotation;
+/**
+ * 防止重复提交拦截器
+ * @author ldm
+ *
+ */
+public @interface AvoidDuplicateSubmissionInterceptor {
+	/**
+	 * 
+	 * @return
+	 */
+	boolean saveToken() default false;
+	boolean removeToken() default false;
+}

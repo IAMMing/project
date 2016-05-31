@@ -1,0 +1,17 @@
+package cn.simple.token.helper;
+
+import java.util.Random;
+
+public class MakeToken {
+	
+	Random random;
+	/**
+	 * 获取token
+	 * 
+	 * @return
+	 */
+	public String getToken() {
+		String raw = System.currentTimeMillis() + random.nextInt(9999) + "";
+		return raw;
+	}
+}
