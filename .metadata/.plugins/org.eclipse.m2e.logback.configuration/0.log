@@ -3943,3 +3943,968 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: start tag u
 2016-05-31 20:10:08,720 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2016-05-31 20:10:08,721 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-05-31 20:10:08,722 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\dubbo-test\dubbo-client\src\test\resources
+2016-06-01 10:49:22,838 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 10:49:22,863 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-06-01 10:49:22,871 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 10:49:22,871 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 11:43:07,740 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:43:07,755 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 11:43:07,760 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:43:07,761 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 11:43:18,011 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:43:18,013 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 11:43:18,014 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:43:18,015 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 11:43:27,754 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:43:27,755 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 11:43:27,757 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:43:27,757 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 11:43:30,071 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:43:30,072 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 11:43:30,074 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:43:30,075 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 11:43:40,893 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:43:40,894 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 11:43:40,896 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:43:40,897 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 11:43:43,920 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:43:43,921 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 11:43:43,923 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:43:43,923 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 11:43:46,710 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:43:46,710 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 11:43:46,712 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:43:46,713 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 11:53:59,836 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:53:59,837 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 11:53:59,839 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:53:59,840 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 11:57:56,224 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.simple:news:0.0.1-SNAPSHOT @ D:\project_env\wrokspace\news\pom.xml.
+2016-06-01 11:57:58,196 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/alibaba/druid/1.0.10/druid-1.0.10.pom
+2016-06-01 11:57:58,635 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/alibaba/druid/1.0.10/druid-1.0.10.pom
+2016-06-01 11:57:58,989 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/alibaba/druid/1.0.10/druid-1.0.10.jar
+2016-06-01 11:58:05,488 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/alibaba/druid/1.0.10/druid-1.0.10.jar
+2016-06-01 11:58:06,842 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:58:06,844 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 11:58:06,846 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:58:06,847 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 11:58:06,848 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of news
+2016-06-01 11:58:06,848 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for news
+2016-06-01 11:58:06,855 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:58:08,461 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:58:08,463 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2016-06-01 11:58:08,474 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 11:58:08,474 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 12:13:11,607 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 12:13:11,608 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 12:13:11,610 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 12:13:11,610 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 12:13:16,195 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/alibaba/druid/1.0.10/druid-1.0.10-sources.jar
+2016-06-01 12:13:35,381 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/alibaba/druid/1.0.10/druid-1.0.10-sources.jar
+2016-06-01 12:13:35,459 [Worker-43] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.alibaba:druid:1.0.10
+2016-06-01 12:13:35,704 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 12:13:35,704 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 12:13:35,706 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 12:13:35,707 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 12:13:36,579 [Worker-47] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.alibaba:druid:1.0.10
+2016-06-01 12:13:36,784 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 12:13:36,785 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 12:13:36,786 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 12:13:36,787 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 12:15:13,153 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 12:15:13,154 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 12:15:13,156 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 12:15:13,156 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 12:16:29,427 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 12:16:29,427 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-06-01 12:16:29,430 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 12:16:29,431 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:21:55,148 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:21:55,148 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:21:55,150 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:21:55,151 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:22:24,000 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:22:24,001 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:22:24,003 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:22:24,004 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:22:26,508 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:22:26,509 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:22:26,511 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:22:26,512 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:22:32,189 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:22:32,190 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:22:32,191 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:22:32,192 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:22:52,655 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:22:52,655 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:22:52,657 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:22:52,657 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:26:29,472 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:26:29,473 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:26:29,475 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:26:29,476 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:26:32,481 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:26:32,482 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:26:32,483 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:26:32,484 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:28:43,179 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:28:43,180 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:28:43,182 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:28:43,183 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:29:28,693 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:29:28,694 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:29:28,696 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:29:28,696 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:29:43,540 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:29:43,541 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:29:43,542 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:29:43,542 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:34:59,532 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:34:59,533 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:34:59,537 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:34:59,538 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:35:08,445 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:35:08,446 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:35:08,447 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:35:08,448 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:35:15,379 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:35:15,379 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:35:15,381 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:35:15,382 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:35:24,454 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:35:24,455 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:35:24,457 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:35:24,457 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:35:47,767 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:35:47,768 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:35:47,771 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:35:47,771 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:35:55,663 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:35:55,664 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:35:55,666 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:35:55,666 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:36:04,117 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:36:04,118 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:36:04,119 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:36:04,120 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 13:36:12,455 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:36:12,456 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 13:36:12,460 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 13:36:12,460 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:32:18,771 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:32:18,772 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 14:32:18,774 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:32:18,775 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:36:45,441 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:36:45,442 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 14:36:45,445 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:36:45,445 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:37:17,885 [Worker-73] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.simple:news:0.0.1-SNAPSHOT @ D:\project_env\wrokspace\news\pom.xml.
+2016-06-01 14:37:19,442 [Worker-73] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mybatis/mybatis-spring/1.2.4/mybatis-spring-1.2.4.pom
+2016-06-01 14:37:19,619 [Worker-73] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mybatis/mybatis-spring/1.2.4/mybatis-spring-1.2.4.pom
+2016-06-01 14:37:19,794 [Worker-73] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mybatis/mybatis-parent/26/mybatis-parent-26.pom
+2016-06-01 14:37:20,129 [Worker-73] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mybatis/mybatis-parent/26/mybatis-parent-26.pom
+2016-06-01 14:37:20,473 [Worker-73] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mybatis/mybatis-spring/1.2.4/mybatis-spring-1.2.4.jar
+2016-06-01 14:37:20,821 [Worker-73] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mybatis/mybatis-spring/1.2.4/mybatis-spring-1.2.4.jar
+2016-06-01 14:37:22,140 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:37:22,141 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 14:37:22,143 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:37:22,144 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:37:22,144 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of news
+2016-06-01 14:37:22,144 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for news
+2016-06-01 14:37:22,148 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:37:23,462 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:37:23,463 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 14:37:23,476 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:37:23,477 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:37:47,431 [Worker-71] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mybatis/mybatis-spring/1.2.4/mybatis-spring-1.2.4-sources.jar
+2016-06-01 14:37:47,754 [Worker-71] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mybatis/mybatis-spring/1.2.4/mybatis-spring-1.2.4-sources.jar
+2016-06-01 14:37:47,840 [Worker-71] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mybatis:mybatis-spring:1.2.4
+2016-06-01 14:37:48,096 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:37:48,096 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 14:37:48,098 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:37:48,098 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:48:37,970 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:48:37,971 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 14:48:37,974 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:48:37,974 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:48:53,140 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:48:53,141 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 14:48:53,143 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:48:53,143 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:49:04,016 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:49:04,017 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 14:49:04,019 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:49:04,020 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:49:12,222 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:49:12,222 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 14:49:12,225 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:49:12,228 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:49:48,536 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:49:48,537 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 14:49:48,538 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:49:48,539 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:57:48,245 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:57:48,247 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 14:57:48,249 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:57:48,250 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:57:58,436 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:57:58,437 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 14:57:58,439 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:57:58,439 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:58:55,478 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:58:55,480 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 14:58:55,484 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:58:55,485 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:59:01,591 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:01,593 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 14:59:01,594 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:01,595 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:59:11,815 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:11,816 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 14:59:11,819 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:11,820 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:59:19,720 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:19,722 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 14:59:19,724 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:19,725 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:59:28,591 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:28,594 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 14:59:28,596 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:28,597 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:59:32,322 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:32,323 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 14:59:32,326 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:32,327 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:59:38,504 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:38,505 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 14:59:38,508 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:38,509 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:59:45,291 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:45,292 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 14:59:45,294 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:45,295 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:59:46,342 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:46,343 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 14:59:46,345 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:46,346 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 14:59:48,431 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:48,433 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 14:59:48,434 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 14:59:48,435 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:00:03,510 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:00:03,511 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:00:03,512 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:00:03,513 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:00:09,916 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:00:09,917 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:00:09,922 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:00:09,925 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:00:13,536 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:00:13,537 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:00:13,539 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:00:13,539 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:02:20,301 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:02:20,302 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:02:20,306 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:02:20,307 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:02:26,190 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:02:26,191 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:02:26,193 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:02:26,193 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:02:28,294 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:02:28,295 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:02:28,296 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:02:28,297 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:02:35,013 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:02:35,014 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:02:35,016 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:02:35,017 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:02:45,167 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:02:45,171 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:02:45,174 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:02:45,175 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:02:49,054 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:02:49,055 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:02:49,057 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:02:49,057 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:02:53,287 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:02:53,288 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:02:53,290 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:02:53,290 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:03:06,310 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:03:06,311 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:03:06,313 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:03:06,313 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:03:10,394 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:03:10,396 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:03:10,398 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:03:10,399 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:03:15,522 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:03:15,523 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:03:15,525 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:03:15,525 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:03:27,393 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:03:27,395 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:03:27,397 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:03:27,398 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:03:32,540 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:03:32,541 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:03:32,543 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:03:32,543 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:03:43,538 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:03:43,539 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:03:43,541 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:03:43,541 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:03:51,203 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:03:51,204 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:03:51,206 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:03:51,206 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:04:27,373 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:04:27,375 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:04:27,376 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:04:27,377 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:04:32,239 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:04:32,240 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:04:32,241 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:04:32,242 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:04:47,116 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:04:47,117 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:04:47,120 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:04:47,120 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:04:54,246 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:04:54,247 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:04:54,249 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:04:54,249 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:05:39,585 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:05:39,586 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:05:39,588 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:05:39,588 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:05:43,441 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:05:43,442 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:05:43,444 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:05:43,445 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:06:11,871 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:06:11,872 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:06:11,876 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:06:11,877 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:06:18,995 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:06:18,996 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:06:18,998 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:06:18,999 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:06:22,495 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:06:22,497 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:06:22,499 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:06:22,501 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:07:29,968 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:07:29,971 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:07:29,974 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:07:29,975 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:07:50,966 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:07:50,967 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:07:50,969 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:07:50,969 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:07:53,991 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:07:53,992 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:07:53,994 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:07:53,994 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:07:55,083 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:07:55,084 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:07:55,086 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:07:55,086 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:08:14,164 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:08:14,166 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:08:14,168 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:08:14,168 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:08:16,740 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:08:16,741 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:08:16,743 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:08:16,744 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:08:34,854 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:08:34,855 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:08:34,857 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:08:34,858 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:08:36,948 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:08:36,949 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:08:36,950 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:08:36,951 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:08:47,378 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:08:47,379 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:08:47,381 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:08:47,382 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:08:52,752 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:08:52,753 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:08:52,754 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:08:52,755 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:08:54,825 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:08:54,826 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:08:54,828 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:08:54,829 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:09:18,795 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:09:18,797 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:09:18,799 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:09:18,799 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:13:17,091 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:13:17,092 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:13:17,093 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:13:17,094 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:13:19,274 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:13:19,275 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:13:19,277 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:13:19,278 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:13:25,396 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:13:25,397 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:13:25,400 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:13:25,400 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:13:40,183 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:13:40,184 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:13:40,186 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:13:40,187 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:14:00,814 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:14:00,816 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:14:00,817 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:14:00,818 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:14:05,046 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:14:05,048 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:14:05,050 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:14:05,051 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:14:11,356 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:14:11,357 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:14:11,359 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:14:11,359 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:14:12,572 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:14:12,573 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:14:12,577 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:14:12,578 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:14:23,555 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:14:23,557 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:14:23,558 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:14:23,559 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:14:42,733 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:14:42,734 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:14:42,736 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:14:42,736 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:18:25,429 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:18:25,430 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 15:18:25,432 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:18:25,432 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:18:33,824 [Worker-99] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for news
+2016-06-01 15:18:34,070 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:18:34,071 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:18:34,079 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:18:34,080 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:18:34,080 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of news
+2016-06-01 15:18:34,080 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for news
+2016-06-01 15:18:34,092 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:21:25,112 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:21:25,113 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:21:25,115 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:21:25,116 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:23:10,651 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:23:10,652 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:23:10,654 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:23:10,654 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:23:38,691 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:23:38,692 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:23:38,694 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:23:38,695 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:23:57,521 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:23:57,522 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:23:57,524 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:23:57,525 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:26:04,993 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:26:04,995 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:26:04,997 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:26:04,998 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:26:12,981 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:26:12,982 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:26:12,984 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:26:12,985 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:26:15,569 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:26:15,570 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:26:15,571 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:26:15,571 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:26:21,676 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:26:21,677 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:26:21,679 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:26:21,680 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:26:23,718 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:26:23,719 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:26:23,720 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:26:23,721 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:26:41,850 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:26:41,852 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:26:41,853 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:26:41,854 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:26:50,580 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:26:50,581 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:26:50,583 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:26:50,583 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:27:00,091 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:27:00,093 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:27:00,094 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:27:00,094 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:27:06,239 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:27:06,241 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:27:06,243 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:27:06,244 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:29:20,654 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:29:20,655 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 15:29:20,659 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:29:20,659 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:29:29,669 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:29:29,670 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 15:29:29,672 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:29:29,673 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:29:38,583 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:29:38,584 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 15:29:38,586 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:29:38,586 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:35:50,436 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:35:50,437 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 15:35:50,439 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:35:50,439 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:51:10,172 [Worker-123] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.simple:news:0.0.1-SNAPSHOT @ D:\project_env\wrokspace\news\pom.xml.
+2016-06-01 15:51:11,683 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:51:11,685 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 15:51:11,686 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:51:11,687 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:51:11,687 [Worker-123] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of news
+2016-06-01 15:51:11,687 [Worker-123] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for news
+2016-06-01 15:51:11,690 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:51:13,204 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:51:13,205 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 15:51:13,220 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:51:13,221 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 15:54:27,060 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:54:27,061 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 15:54:27,063 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 15:54:27,064 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 16:03:55,937 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 16:03:55,938 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 16:03:55,940 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 16:03:55,941 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 16:52:34,184 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 16:52:34,185 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 16:52:34,187 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 16:52:34,187 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 16:55:16,317 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 16:55:16,318 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 16:55:16,320 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 16:55:16,320 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 16:55:20,031 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 16:55:20,034 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 16:55:20,036 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 16:55:20,037 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 16:55:31,999 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 16:55:32,000 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 16:55:32,002 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 16:55:32,002 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:00:26,677 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:00:26,678 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:00:26,680 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:00:26,680 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:03:48,391 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:03:48,392 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:03:48,394 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:03:48,395 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:03:55,181 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:03:55,182 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:03:55,184 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:03:55,184 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:04:59,583 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:04:59,585 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:04:59,588 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:04:59,589 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:05:21,898 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:05:21,900 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:05:21,902 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:05:21,902 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:07:28,962 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:07:28,964 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:07:28,966 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:07:28,967 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:07:49,178 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:07:49,179 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:07:49,180 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:07:49,181 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:07:52,024 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:07:52,026 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:07:52,028 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:07:52,028 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:08:13,122 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:08:13,124 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:08:13,126 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:08:13,127 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:08:29,294 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:08:29,295 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:08:29,296 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:08:29,297 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:08:37,562 [Worker-161] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:08:37,563 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:08:37,564 [Worker-161] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:08:37,565 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:08:44,231 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:08:44,232 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:08:44,234 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:08:44,235 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:08:47,031 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:08:47,032 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:08:47,034 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:08:47,034 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:08:50,378 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:08:50,379 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:08:50,380 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:08:50,381 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:09:02,625 [Worker-160] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:09:02,626 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:09:02,628 [Worker-160] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:09:02,628 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:09:07,008 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:09:07,009 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:09:07,011 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:09:07,012 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:10:38,261 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:10:38,262 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:10:38,265 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:10:38,265 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:10:47,703 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:10:47,704 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:10:47,706 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:10:47,706 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:10:52,461 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:10:52,462 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:10:52,464 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:10:52,464 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:11:04,004 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:11:04,005 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:11:04,007 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:11:04,007 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:11:35,682 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:11:35,684 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:11:35,685 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:11:35,686 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:11:43,381 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:11:43,383 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:11:43,384 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:11:43,385 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:11:55,834 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:11:55,835 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:11:55,837 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:11:55,838 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:11:57,958 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:11:57,959 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:11:57,961 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:11:57,962 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:13:47,380 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:13:47,381 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:13:47,383 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:13:47,384 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:14:43,887 [Worker-169] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:14:43,888 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:14:43,890 [Worker-169] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:14:43,890 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:15:05,164 [Worker-170] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:15:05,165 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:15:05,167 [Worker-170] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:15:05,168 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:15:37,836 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:15:37,837 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:15:37,839 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:15:37,840 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:15:47,886 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:15:47,887 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:15:47,889 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:15:47,889 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:15:57,299 [Worker-171] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:15:57,300 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:15:57,301 [Worker-171] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:15:57,301 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:16:06,671 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:16:06,673 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:16:06,674 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:16:06,674 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:16:15,983 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:16:15,984 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:16:15,986 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:16:15,986 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:17:23,458 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:17:23,460 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:17:23,462 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:17:23,463 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:18:27,398 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:18:27,399 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:18:27,401 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:18:27,401 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:18:33,281 [Worker-168] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:18:33,283 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:18:33,285 [Worker-168] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:18:33,285 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:18:36,668 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:18:36,670 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:18:36,671 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:18:36,672 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:26:42,448 [Worker-174] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.simple:news:0.0.1-SNAPSHOT @ D:\project_env\wrokspace\news\pom.xml.
+2016-06-01 17:26:45,592 [Worker-174] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.20/freemarker-2.3.20.pom
+2016-06-01 17:26:45,790 [Worker-174] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.20/freemarker-2.3.20.pom
+2016-06-01 17:26:46,156 [Worker-174] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.20/freemarker-2.3.20.jar
+2016-06-01 17:27:27,857 [Worker-174] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.20/freemarker-2.3.20.jar
+2016-06-01 17:27:29,241 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:27:29,243 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 17:27:29,245 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:27:29,246 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:27:29,246 [Worker-174] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of news
+2016-06-01 17:27:29,247 [Worker-174] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for news
+2016-06-01 17:27:29,250 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:27:30,296 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:27:30,298 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:27:30,313 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:27:30,314 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:27:36,679 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:27:36,680 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 17:27:36,681 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:27:36,682 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:27:41,417 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:27:41,418 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 17:27:41,419 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:27:41,419 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:27:58,184 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:27:58,185 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 17:27:58,186 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:27:58,186 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:28:04,721 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:28:04,722 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 17:28:04,723 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:28:04,724 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:28:08,585 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:28:08,586 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 17:28:08,587 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:28:08,588 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:29:12,262 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:29:12,263 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 17:29:12,266 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:29:12,267 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:29:24,568 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:29:24,569 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 17:29:24,573 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:29:24,574 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:29:38,210 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:29:38,211 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 17:29:38,213 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:29:38,214 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:29:48,941 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:29:48,942 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 17:29:48,946 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:29:48,947 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:31:00,323 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:31:00,325 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:31:00,326 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:31:00,326 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:31:03,330 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:31:03,332 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:31:03,334 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:31:03,334 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:31:06,257 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:31:06,258 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:31:06,260 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:31:06,261 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:31:11,804 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:31:11,806 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:31:11,809 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:31:11,810 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:31:14,605 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:31:14,607 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:31:14,609 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:31:14,609 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:31:44,729 [Worker-179] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:31:44,731 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:31:44,733 [Worker-179] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:31:44,734 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:31:47,524 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:31:47,525 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:31:47,527 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:31:47,527 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:31:55,807 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:31:55,809 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:31:55,810 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:31:55,811 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:32:15,994 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:32:15,995 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:32:15,997 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:32:15,997 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:32:18,095 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:32:18,096 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:32:18,097 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:32:18,098 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:32:19,180 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:32:19,181 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:32:19,183 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:32:19,183 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:32:33,273 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:32:33,274 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:32:33,276 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:32:33,277 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:34:45,243 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:34:45,243 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 17:34:45,244 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:34:45,245 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:35:02,183 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:35:02,183 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 17:35:02,185 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:35:02,185 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:35:04,378 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:35:04,379 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 17:35:04,380 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:35:04,380 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:36:03,157 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:36:03,158 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 17:36:03,160 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:36:03,161 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:36:18,263 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:36:18,264 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 17:36:18,265 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:36:18,265 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:39:47,427 [Worker-176] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.simple:news:0.0.1-SNAPSHOT @ D:\project_env\wrokspace\news\pom.xml.
+2016-06-01 17:39:48,986 [Worker-176] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.2.5.RELEASE/spring-context-support-4.2.5.RELEASE.pom
+2016-06-01 17:39:49,241 [Worker-176] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.2.5.RELEASE/spring-context-support-4.2.5.RELEASE.pom
+2016-06-01 17:39:49,593 [Worker-176] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.2.5.RELEASE/spring-context-support-4.2.5.RELEASE.jar
+2016-06-01 17:39:50,953 [Worker-176] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.2.5.RELEASE/spring-context-support-4.2.5.RELEASE.jar
+2016-06-01 17:39:52,157 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:39:52,159 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 17:39:52,160 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:39:52,161 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:39:52,161 [Worker-176] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of news
+2016-06-01 17:39:52,161 [Worker-176] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for news
+2016-06-01 17:39:52,172 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:39:53,853 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:39:53,856 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-01 17:39:53,871 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:39:53,872 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 17:41:30,349 [Worker-180] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:41:30,350 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 17:41:30,352 [Worker-180] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 17:41:30,353 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:06:18,381 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:06:18,381 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 19:06:18,384 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:06:18,384 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:08:58,618 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:08:58,619 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 19:08:58,621 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:08:58,621 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:11:07,274 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:11:07,275 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 19:11:07,278 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:11:07,278 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:11:09,956 [Worker-188] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:11:09,956 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 19:11:09,958 [Worker-188] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:11:09,959 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:13:01,085 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:13:01,086 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 19:13:01,088 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:13:01,089 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:14:42,592 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:14:42,593 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 19:14:42,597 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:14:42,598 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:15:30,249 [Worker-199] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.2.5.RELEASE/spring-context-support-4.2.5.RELEASE-sources.jar
+2016-06-01 19:15:51,762 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:15:51,763 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 19:15:51,766 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:15:51,767 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:15:53,618 [Worker-199] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.2.5.RELEASE/spring-context-support-4.2.5.RELEASE-sources.jar
+2016-06-01 19:15:53,708 [Worker-199] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:4.2.5.RELEASE
+2016-06-01 19:15:56,059 [Worker-199] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.20/freemarker-2.3.20-sources.jar
+2016-06-01 19:16:04,497 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:16:04,498 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 19:16:04,500 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:16:04,501 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:16:39,562 [Worker-199] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.20/freemarker-2.3.20-sources.jar
+2016-06-01 19:16:39,650 [Worker-199] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.freemarker:freemarker:2.3.20
+2016-06-01 19:16:39,661 [Worker-199] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.freemarker:freemarker:2.3.20
+2016-06-01 19:16:39,668 [Worker-199] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:4.2.5.RELEASE
+2016-06-01 19:16:39,924 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:16:39,925 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 19:16:39,926 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:16:39,927 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:17:31,296 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:17:31,297 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 19:17:31,300 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:17:31,301 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:18:20,998 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:18:21,000 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 19:18:21,001 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:18:21,002 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:20:04,713 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:20:04,714 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 19:20:04,716 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:20:04,716 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:21:23,441 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:21:23,442 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 19:21:23,444 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:21:23,445 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:21:45,932 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:21:45,933 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 19:21:45,935 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:21:45,936 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:23:14,905 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:23:14,906 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 19:23:14,908 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:23:14,909 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:23:53,435 [Worker-205] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:23:53,435 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 19:23:53,438 [Worker-205] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:23:53,439 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:24:09,458 [Worker-206] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:24:09,459 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 19:24:09,460 [Worker-206] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:24:09,461 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:24:14,850 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:24:14,850 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 19:24:14,852 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:24:14,852 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:31:15,402 [Worker-207] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:31:15,402 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 19:31:15,404 [Worker-207] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:31:15,405 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:31:52,100 [Worker-207] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:31:52,100 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 19:31:52,101 [Worker-207] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:31:52,102 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:33:08,378 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:33:08,379 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-01 19:33:08,380 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:33:08,381 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:33:42,593 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:33:42,593 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 19:33:42,595 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:33:42,596 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:39:26,749 [Worker-220] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:39:26,750 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 19:39:26,753 [Worker-220] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:39:26,754 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:48:37,403 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:48:37,404 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 19:48:37,407 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:48:37,407 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:53:22,219 [Worker-233] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:53:22,220 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 19:53:22,223 [Worker-233] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:53:22,224 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 19:53:47,973 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:53:47,974 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 19:53:47,976 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 19:53:47,976 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 20:08:13,631 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 20:08:13,632 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 20:08:13,634 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 20:08:13,634 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 20:08:28,459 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 20:08:28,462 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 20:08:28,466 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 20:08:28,467 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
+2016-06-01 20:08:39,275 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 20:08:39,275 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-01 20:08:39,277 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-01 20:08:39,278 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project_env\wrokspace\news\src\test\resources
