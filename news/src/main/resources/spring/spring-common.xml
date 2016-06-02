@@ -23,26 +23,26 @@
 
 
 
-	<!-- <bean class="com.kyj.kjf.common.datasource.BeanPostPrcessorImpl" /> -->
+	<bean class="com.kyj.kjf.common.datasource.BeanPostPrcessorImpl" />
 
 	<!-- 多数据源配置 -->
-	<!-- <bean id="dataSource" class="com.kyj.kjf.common.datasource.TradingRoutingDataSource"> -->
-	<!-- <property name="targetDataSources"> -->
-	<!-- <map key-type="java.lang.String"> -->
-	<!-- </map> -->
-	<!-- </property> -->
-	<!-- common里只定义一个默认数据源 -->
-	<!-- <property name="defaultTargetDataSource" ref="readUserDataSource"></property> -->
-	<!-- </bean> -->
+	<bean id="dataSource" class="com.kyj.kjf.common.datasource.TradingRoutingDataSource">
+		<property name="targetDataSources">
+			<map key-type="java.lang.String">
+			</map>
+		</property>
+		<!-- common里只定义一个默认数据源 -->
+		<property name="defaultTargetDataSource" ref="testDataSource"></property>
+	</bean>
 
 	<!-- mybatis 配置start -->
 	<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
-		<property name="dataSource" ref="datasource" />
+		<property name="dataSource" ref="dataSource" />
 		<!-- 自动扫描entity目录, 省掉Configuration.xml里的手工配置 -->
 		<property name="typeAliasesPackage" value="cn.simple.**.domain" />
 		<!-- 显式指定Mapper文件位置 -->
 		<property name="mapperLocations" value="classpath*:cn/simple/**/mappers/*Mapper.xml" />
-		
+
 	</bean>
 
 	<!-- mybatis的page拦截器 -->
@@ -56,9 +56,9 @@
 
 	<!-- 扫描basePackage下所有以@MyBatisRepository标识的 接口 -->
 	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-	<property name="basePackage" value="cn.simple.**.dao" />
-<!-- 	<property name="annotationClass" -->
-<!-- 	value="com.kyj.kjf.common.annotation.MyBatisRepository" /> -->
+		<property name="basePackage" value="cn.simple.**.dao" />
+		<!-- <property name="annotationClass" -->
+		<!-- value="com.kyj.kjf.common.annotation.MyBatisRepository" /> -->
 	</bean>
 
 	<!--org.mybatis.spring.SqlSessionTemplate -->
