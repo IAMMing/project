@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
   <uri name="http://www.springframework.org/schema/beans" uri="file:///D:/source/spring/spring-framework-4.2.5.RELEASE/schema/beans/spring-beans-4.2.xsd"/>
-  <uri name="http://www.springframework.org/schema/tx" uri="file:///D:/source/spring/spring-framework-4.2.5.RELEASE/schema/tx/spring-tx-4.2.xsd"/>
   <uri name="http://www.springframework.org/schema/aop" uri="file:///D:/source/spring/spring-framework-4.2.5.RELEASE/schema/aop/spring-aop-4.2.xsd"/>
   <uri name="http://www.springframework.org/schema/context" uri="file:///D:/source/spring/spring-framework-4.2.5.RELEASE/schema/context/spring-context-4.2.xsd"/>
 </catalog>

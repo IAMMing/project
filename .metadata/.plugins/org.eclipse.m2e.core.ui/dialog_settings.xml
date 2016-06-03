@@ -41,12 +41,14 @@
 			<item value="cn.simple"/>
 		</list>
 		<list key="package">
+			<item value="cn.simple.src_study"/>
 			<item value="cn.simple.jvmdemo"/>
 			<item value="org.dubbo.client"/>
 			<item value="org.dubbo.service"/>
 			<item value="org.debbo.service"/>
 		</list>
 		<list key="artifactId">
+			<item value="src-study"/>
 			<item value="jvmdemo"/>
 			<item value="dubbo-client"/>
 			<item value="dubbo-service"/>

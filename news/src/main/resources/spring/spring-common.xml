@@ -20,13 +20,10 @@
 	<context:annotation-config />
 	<context:component-scan base-package="cn.simple" />
 
-
-
-
-	<bean class="com.kyj.kjf.common.datasource.BeanPostPrcessorImpl" />
+	<bean class="cn.simple.datasource.BeanPostPrcessorImpl" />
 
 	<!-- 多数据源配置 -->
-	<bean id="dataSource" class="com.kyj.kjf.common.datasource.TradingRoutingDataSource">
+	<bean id="dataSource" class="cn.simple.datasource.DataSourceRouting">
 		<property name="targetDataSources">
 			<map key-type="java.lang.String">
 			</map>
@@ -74,18 +71,18 @@
 	<!-- class="org.springframework.jdbc.datasource.DataSourceTransactionManager"> -->
 	<!-- <property name="dataSource" ref="dataSource" /> -->
 	<!-- </bean> -->
-	<!-- <bean id="dataSourceBeforeAdvice" class="com.kyj.kjf.common.datasource.DataSourceBeforeAdvice"></bean> -->
-	<!-- <bean id="datasourceAfterAdvice" class="com.kyj.kjf.common.datasource.DataSourceAfterAdvice"></bean> -->
+	<bean id="dataSourceBeforeAdvice" class="cn.simple.datasource.DataSourceBeforeAdvice"></bean>
+	<bean id="datasourceAfterAdvice" class="cn.simple.datasource.DataSourceAfterAdvice"></bean>
 
-	<!-- <aop:config proxy-target-class="true"> -->
-	<!-- <aop:advisor advice-ref="dataSourceBeforeAdvice" order="100" -->
-	<!-- pointcut="execution(* com.kyj.*.service..*.*(..))" /> -->
-	<!-- </aop:config> -->
+	<aop:config proxy-target-class="true">
+		<aop:advisor advice-ref="dataSourceBeforeAdvice" order="100"
+			pointcut="execution(* cn.simple..*.*(..))" />
+	</aop:config>
 
-	<!-- <aop:config proxy-target-class="true"> -->
-	<!-- <aop:advisor advice-ref="datasourceAfterAdvice" order="400" -->
-	<!-- pointcut="execution(* com.kyj.*.service..*.*(..))" /> -->
-	<!-- </aop:config> -->
+	<aop:config proxy-target-class="true">
+		<aop:advisor advice-ref="datasourceAfterAdvice" order="400"
+			pointcut="execution(* cn.simple..*.*(..))" />
+	</aop:config>
 
 	<!-- <bean id="springContextUtil" class="com.kyj.kjf.common.util.SpringContextUtil" 
 		/> -->

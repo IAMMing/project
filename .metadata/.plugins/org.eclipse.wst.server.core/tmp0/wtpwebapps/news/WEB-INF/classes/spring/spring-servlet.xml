@@ -61,8 +61,16 @@
 		<property name="templateLoaderPath" value="/WEB-INF/view/ftl/" />
 		<property name="freemarkerSettings">
 			<props>
+				<prop key="template_update_delay">1</prop>
 				<prop key="defaultEncoding">UTF-8</prop>
+				<prop key="url_escaping_charset">UTF-8</prop>
 				<prop key="locale">zh_CN</prop>
+				<prop key="boolean_format">true,false</prop>
+				<prop key="datetime_format">yyyy-MM-dd HH:mm:ss</prop>
+				<prop key="date_format">yyyy-MM-dd</prop>
+				<prop key="time_format">HH:mm:ss</prop>
+				<prop key="number_format">0.######</prop>
+				<prop key="whitespace_stripping">true</prop>
 			</props>
 		</property>
 	</bean>
@@ -73,7 +81,10 @@
 		<property name="cache" value="true" />
 		<property name="prefix" value="" />
 		<property name="suffix" value=".html" />
-		<property name="contentType" value="text/html; charset=UTF-8" /> 
+		<property name="contentType" value="text/html; charset=UTF-8" />
+		<property name="exposeRequestAttributes" value="false" />
+		<property name="exposeSessionAttributes" value="false" />
+		<property name="exposeSpringMacroHelpers" value="true" />
 	</bean>
 	<!-- 上传文件拦截，设置最大上传文件大小 10M=10*1024*1024(B)=10485760 bytes -->
 	<!-- <bean id="multipartResolver" -->
