@@ -1,0 +1,13 @@
+package cn.simple.datasource;
+
+import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
+
+public class DataSourceRouting extends AbstractRoutingDataSource {
+
+	@Override
+	protected Object determineCurrentLookupKey() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

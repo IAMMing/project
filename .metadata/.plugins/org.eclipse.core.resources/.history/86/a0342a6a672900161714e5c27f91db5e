@@ -1,0 +1,6 @@
+package cn.simple.domain;
+
+public class MyMobile {
+private int id;
+private String mobile;
+}

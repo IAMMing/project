@@ -1,0 +1,18 @@
+package cn.simple.service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import cn.simple.domain.MyTest;
+
+@Service
+public class TestDaoService {
+
+	MyTestDao myTestDao;
+	public List<MyTest> search()
+	{
+		return null;
+	}
+	
+}

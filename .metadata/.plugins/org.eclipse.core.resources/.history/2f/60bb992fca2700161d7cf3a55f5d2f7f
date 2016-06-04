@@ -1,0 +1,9 @@
+package cn.simple.dao;
+
+import java.util.List;
+
+
+import cn.simple.domain.MyTest;
+public interface MyTestDao {
+	List<MyTest> search();
+}

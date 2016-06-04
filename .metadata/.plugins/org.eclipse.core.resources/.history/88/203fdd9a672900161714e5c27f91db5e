@@ -1,0 +1,9 @@
+package cn.simple.dao;
+
+import java.util.List;
+
+import cn.simple.domain.MyMobile;
+
+public interface MyDemoDao {
+	List<MyMobile> search();
+}

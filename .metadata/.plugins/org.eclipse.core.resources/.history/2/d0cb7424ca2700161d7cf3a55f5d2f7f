@@ -1,0 +1,10 @@
+package cn.simple.dao;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import cn.simple.domain.MyTest;
+public interface MyTestDao {
+	List<MyTest> search();
+}

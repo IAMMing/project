@@ -1,0 +1,9 @@
+package cn.simple.src_study;
+
+public class StringStudy {
+	public static void main(String[] args) {
+		String a;
+		StringBuffer sb;
+		StringBuilder sbd;
+	}
+}

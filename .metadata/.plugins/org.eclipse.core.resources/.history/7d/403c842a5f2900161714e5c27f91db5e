@@ -1,0 +1,23 @@
+package cn.simple.src_study;
+
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args ) throws Exception
+    {
+    	
+    	Class.forName("");
+    	DriverManager.getConnection("");
+    	
+        System.out.println( "Hello World!" );
+        
+        
+    }
+}

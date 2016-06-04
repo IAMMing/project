@@ -1,0 +1,6 @@
+package cn.simple.service;
+
+@Service()
+public class DemoDaoService {
+
+}

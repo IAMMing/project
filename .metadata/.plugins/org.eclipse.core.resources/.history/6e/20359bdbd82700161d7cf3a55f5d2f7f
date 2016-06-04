@@ -1,0 +1,22 @@
+package cn.simple.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import cn.simple.dao.MyTestDao;
+import cn.simple.domain.MyTest;
+
+@Service("testService")
+public class TestDaoService {
+
+	@Autowired
+	MyTestDao myTestDao;
+	
+	public List<MyTest> search()
+	{
+		return myTestDao.search();
+	}
+	
+}

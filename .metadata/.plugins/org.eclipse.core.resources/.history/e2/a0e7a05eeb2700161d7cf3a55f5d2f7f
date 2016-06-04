@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title></title>
+</head>
+<body>
+<#list model["list"] as item>
+${item.id}=${item.tName}
+</#list>
+</body>
+</html>

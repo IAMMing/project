@@ -1,0 +1,13 @@
+1464752587576	Copy file
+1464764359435	Rename type 'MyTest'
+1464764913627	Extract local variable 'mv'
+1464765685070	Rename type 'MyTest'
+1464765818518	Rename field 'testdao'
+1464772048674	Rename resource 'MyTest.xml'
+1464772427161	Rename resource 'MyTestDao.xml'
+1464772537563	Extract local variable 'search'
+1464773261260	Move 'ftl' to 'view'
+1464779580906	Delete element
+1464780788201	Rename resource 'index.ftl'
+1464943615274	Copy file
+1464945625322	Rename field '_dataSources'

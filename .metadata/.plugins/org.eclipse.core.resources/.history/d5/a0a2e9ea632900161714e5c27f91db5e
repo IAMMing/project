@@ -1,0 +1,8 @@
+package cn.simple.datasource;
+
+import org.springframework.aop.MethodBeforeAdvice;
+import org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor;
+
+public class DataSourceBeforeAdvice implements MethodBeforeAdvice {
+
+}

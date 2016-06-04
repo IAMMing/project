@@ -1,0 +1,8 @@
+1464920793602	Extract local variable 'start'
+1464921025761	Rename local variable 'start'
+1464921042219	Rename local variable 'end1'
+1464921072289	Rename local variable 'end2'
+1464921082798	Rename local variable 'strEnd2'
+1464922135693	Copy compilation unit
+1464939939340	Extract local variable 'connection'
+1464939958329	Extract local variable 'stat'

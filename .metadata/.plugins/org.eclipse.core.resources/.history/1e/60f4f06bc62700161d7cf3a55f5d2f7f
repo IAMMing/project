@@ -1,0 +1,6 @@
+package cn.simple.domain;
+
+public class MyTest {
+ private int id;
+ private int tName;
+}

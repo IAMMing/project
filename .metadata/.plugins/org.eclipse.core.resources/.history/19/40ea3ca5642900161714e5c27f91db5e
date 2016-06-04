@@ -1,0 +1,8 @@
+package cn.simple.datasource;
+
+import org.springframework.aop.AfterReturningAdvice;
+import org.springframework.aop.ThrowsAdvice;
+
+public class DataSourceAfterAdvice implements AfterReturningAdvice,ThrowsAdvice {
+
+}

@@ -1,0 +1,22 @@
+package cn.simple.domain;
+
+public class MyTest {
+ private int id;
+	private int tName;
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public int gettName() {
+		return tName;
+	}
+
+	public void settName(int tName) {
+		this.tName = tName;
+	}
+}

@@ -1,0 +1,5 @@
+package cn.simple.constant;
+
+public class DataSource {
+public static final TEST_DATASOURCE="";
+}

@@ -1,0 +1,19 @@
+package cn.simple.src_study;
+
+import java.sql.PreparedStatement;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	
+    	Class.forName("");
+        System.out.println( "Hello World!" );
+        
+        
+    }
+}

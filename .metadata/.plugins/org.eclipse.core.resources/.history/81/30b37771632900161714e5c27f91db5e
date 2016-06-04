@@ -1,0 +1,26 @@
+package cn.simple.datasource;
+
+import org.springframework.beans.BeansException;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.config.BeanPostProcessor;
+
+import com.alibaba.druid.pool.DruidDataSource;
+
+public class BeanPostPrcessorImpl implements BeanPostProcessor {
+
+	@Autowired
+	DataSourceRouting dataSourceRouting;
+
+	public Object postProcessAfterInitialization(Object bean, String beanName) throws BeansException {
+		if (bean instanceof DruidDataSource) {
+	
+		}
+		return bean;
+	}
+
+	public Object postProcessBeforeInitialization(Object arg0, String arg1) throws BeansException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

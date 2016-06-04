@@ -1,0 +1,11 @@
+package cn.simple.service;
+
+import org.springframework.stereotype.Service;
+
+import cn.simple.annotation.CurrentDataSource;
+
+@Service("demoDaoService")
+@CurrentDataSource(name="")
+public class DemoDaoService {
+
+}
