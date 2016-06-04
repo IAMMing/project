@@ -10,8 +10,6 @@ public class DataSourceBeforeAdvice implements MethodBeforeAdvice {
 
 	public void before(Method method, Object[] args, Object target) throws Throwable {
 
-		System.out.println(
-				method.getName() + "---------------------------------------" + target.getClass().getSimpleName());
 		CurrentDataSource cds = null;
 		cds = target.getClass().getAnnotation(CurrentDataSource.class);
 		if (cds == null) {
