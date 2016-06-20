@@ -1,7 +1,0 @@
-package cn.simple.src_study;
-
-public class StringStudy {
-	public static void main(String[] args) {
-String a;
-	}
-}

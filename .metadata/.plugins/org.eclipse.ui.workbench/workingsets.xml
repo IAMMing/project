@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1465802758081_1" label="dubbo-test" name="dubbo-test">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-test" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-client" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1464141487022_0" label="Window Working Set" name="Aggregate for window 1464141487022"/>
 </workingSetManager>

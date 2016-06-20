@@ -10,6 +10,7 @@
        http://www.springframework.org/schema/context/spring-context-4.2.xsd">
 	<description>Spring-MVC公共配置</description>
 
+	<mvc:annotation-driven></mvc:annotation-driven>
 	<!-- 扫描基本包 -->
 	<context:component-scan base-package="cn.simple"
 		use-default-filters="false">
@@ -37,23 +38,23 @@
 		class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter" />
 
 	<!-- JSP视图文件解析配置 -->
-	<!-- <bean -->
-	<!-- class="org.springframework.web.servlet.view.InternalResourceViewResolver"> -->
-	<!-- <property name="viewClass" -->
-	<!-- value="org.springframework.web.servlet.view.JstlView" /> -->
-	<!-- <property name="prefix" value="/WEB-INF/view/" /> -->
-	<!-- <property name="suffix" value=".jsp" /> -->
-	<!-- <property name="viewNames" value="jsp/*" /> -->
-	<!-- <property name="order" value="1" /> -->
-	<!-- </bean> -->
+	<bean
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<property name="viewClass"
+			value="org.springframework.web.servlet.view.JstlView" />
+		<property name="prefix" value="/WEB-INF/view/" />
+		<property name="suffix" value=".jsp" />
+		<property name="viewNames" value="jsp/*" />
+		<property name="order" value="1" />
+	</bean>
 
-	<!-- <bean class="org.springframework.web.servlet.view.UrlBasedViewResolver"> -->
-	<!-- <property name="viewClass" -->
-	<!-- value="org.springframework.web.servlet.view.JstlView" /> -->
-	<!-- <property name="prefix" value="/WEB-INF/view/" /> -->
-	<!-- <property name="suffix" value=".jsp" /> -->
-	<!-- <property name="order" value="2" /> -->
-	<!-- </bean> -->
+	<bean class="org.springframework.web.servlet.view.UrlBasedViewResolver">
+		<property name="viewClass"
+			value="org.springframework.web.servlet.view.JstlView" />
+		<property name="prefix" value="/WEB-INF/view/" />
+		<property name="suffix" value=".jsp" />
+		<property name="order" value="2" />
+	</bean>
 
 
 	<bean id="freemarkerConfig"

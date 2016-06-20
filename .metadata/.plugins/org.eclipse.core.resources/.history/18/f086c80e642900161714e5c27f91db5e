@@ -1,5 +1,0 @@
-package cn.simple.annotation;
-
-public @interface CurrentDataSource {
-
-}

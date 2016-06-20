@@ -2,6 +2,7 @@ package cn.simple.src_study;
 
 public class StringStudy {
 	public static void main(String[] args) {
+		
 		long strStart = System.currentTimeMillis();
 		for (int i = 0; i < 10000; i++) {
 
