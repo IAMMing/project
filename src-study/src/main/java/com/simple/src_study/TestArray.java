@@ -1,4 +1,4 @@
-package cn.simple.src_study;
+package com.simple.src_study;
 
 public class TestArray<E> {
 

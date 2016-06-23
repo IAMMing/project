@@ -1,4 +1,4 @@
-package cn.simple.threaddemo;
+package com.simple.threaddemo;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

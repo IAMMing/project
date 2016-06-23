@@ -1,4 +1,4 @@
-package cn.simple.enumdemo;
+package com.simple.enumdemo;
 
 public enum EnumType {
 
