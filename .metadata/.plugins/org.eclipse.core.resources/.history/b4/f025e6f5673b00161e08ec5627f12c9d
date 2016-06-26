@@ -1,0 +1,22 @@
+package com.simple.authentication;
+
+import java.util.Date;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class ValidTimeTest {
+
+	ValidTime vt;
+
+	@Before
+	public void before() {
+		vt = ValidTime.getInstance();
+	}
+
+	@Test
+	public void testGetValidStamp() {
+		System.out.println(vt.getValidStamp());
+		Date date = new Date();
+	}
+}

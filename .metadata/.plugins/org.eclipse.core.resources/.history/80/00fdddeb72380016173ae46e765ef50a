@@ -1,0 +1,13 @@
+package com.simple.bean;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class ComponentDemo {
+	
+	public String test() {
+		String result = "this is ComponentDemo.test";
+		System.out.println(result);
+		return result;
+	}
+}

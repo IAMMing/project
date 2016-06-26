@@ -39,6 +39,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\project_env\wrokspace\src-study"/>
 			<item value="D:\project_env\wrokspace"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -55,11 +56,16 @@
 			<item value="cn.simple"/>
 		</list>
 		<list key="package">
+			<item value="org.src.spring"/>
+			<item value="cn.simple"/>
+			<item value="cn.simple.command"/>
 			<item value="org.avoid.server"/>
 			<item value="org.avoid.client"/>
 			<item value="org.avoid.common"/>
 		</list>
 		<list key="artifactId">
+			<item value="src-spring"/>
+			<item value="command"/>
 			<item value="avoid-server"/>
 			<item value="avoid-client"/>
 			<item value="avoid-common"/>
@@ -84,6 +90,7 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="src-spring"/>
 			<item value="avoid-server"/>
 			<item value="avoid-client"/>
 			<item value="avoid-common"/>
@@ -123,8 +130,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="avoid-server"/>
-			<item value="avoid-parent"/>
+			<item value="src-spring"/>
+			<item value="src-study"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

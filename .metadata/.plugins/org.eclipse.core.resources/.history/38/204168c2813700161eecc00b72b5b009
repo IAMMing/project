@@ -1,0 +1,9 @@
+package cn.simple.domain;
+/**
+ * 房源信息
+ * @author ldm
+ * @Date 2016年6月21日
+ */
+public class HouseInfo {
+ private int id;
+}

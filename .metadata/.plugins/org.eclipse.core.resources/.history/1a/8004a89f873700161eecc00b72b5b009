@@ -1,0 +1,19 @@
+package cn.simple.responsibility.impl;
+
+import cn.simple.domain.OperationResult;
+import cn.simple.flow.IPay;
+
+public class Pay extends AbstractResponsibility {
+	IPay pay;
+
+	public Pay(AbstractResponsibility responsibility) {
+		super(responsibility);
+	}
+
+	@Override
+	public OperationResult process() {
+OperationResult result;
+		return null;
+	}
+
+}

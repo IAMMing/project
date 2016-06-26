@@ -1,0 +1,7 @@
+package cn.simple.responsibility.impl;
+
+import cn.simple.responsibility.IResponsibility;
+
+public class AbstractResponsibility implements IResponsibility {
+ private AbstractResponsibility responsibility;
+}

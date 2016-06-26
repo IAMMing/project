@@ -1,0 +1,11 @@
+package cn.simple.enumdemo;
+
+public class EnumType {
+ private Integer value;
+ private String desc;
+ private EnumType(int val,String desc)
+ {
+	 
+ }
+ 
+}

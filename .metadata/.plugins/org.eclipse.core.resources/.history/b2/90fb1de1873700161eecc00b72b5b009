@@ -1,0 +1,7 @@
+package cn.simple.flow;
+
+public interface IPay {
+	boolean executePay();
+
+	boolean callback();
+}

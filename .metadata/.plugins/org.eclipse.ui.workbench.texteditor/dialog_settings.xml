@@ -13,8 +13,9 @@
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="" key="selection"/>
+		<item value="codec" key="selection"/>
 		<list key="findhistory">
+			<item value="codec"/>
 			<item value="json"/>
 			<item value="index &lt; 0"/>
 			<item value="index&lt;0"/>
@@ -22,7 +23,6 @@
 			<item value="info"/>
 			<item value="default-servlet-handler"/>
 			<item value="jstl"/>
-			<item value="viewNames"/>
 		</list>
 		<list key="replacehistory">
 		</list>

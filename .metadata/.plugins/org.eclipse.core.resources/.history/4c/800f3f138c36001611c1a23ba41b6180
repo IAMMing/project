@@ -1,0 +1,17 @@
+package cn.simple.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+@RequestMapping(path = "/10000")
+public class NumController {
+
+	public String numTest() {
+return "";
+	}
+	class DemoTest{
+		public int a=5;
+		public String name="numtest";
+	}
+}

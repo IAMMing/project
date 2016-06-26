@@ -1,0 +1,15 @@
+1465965076029	Delete element
+1465967438244	Delete element
+1466048752741	Extract local variable 'token'
+1466048933929	Extract local variable 'formToken'
+1466049014344	Extract local variable 'cookies'
+1466049204748	Extract method 'rethrow'
+1466054761379	Extract local variable 'cookieValue'
+1466054777848	Rename method 'rethrow'
+1466054783268	Rename method 'pringthrow'
+1466054791692	Rename method 'printthrow'
+1466054817121	Rename field 'sessionTokenProcesser'
+1466064333368	Rename field 'clientTokenProcesser'
+1466065191758	Extract local variable 'e'
+1466065627265	Extract local variable 'tokenObj'
+1466065932011	Delete element

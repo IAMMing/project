@@ -1,0 +1,6 @@
+package com.simple.authentication;
+
+public class Param {
+ private String v;
+ private Long t;
+}

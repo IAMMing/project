@@ -1,0 +1,4 @@
+1465175245524	Extract local variable 'app'
+1465175265258	Extract local variable 'throwable'
+1465175282532	Extract local variable 'stackTrace'
+1465175439653	Extract local variable 'sb'

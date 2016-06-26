@@ -1,0 +1,29 @@
+package com.simple.authentication;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import org.apache.commons.codec.digest.DigestUtils;
+import org.junit.Before;
+import org.junit.Test;
+
+public class ValidTimeTest {
+
+	ValidTime vt;
+
+	@Before
+	public void before() {
+		vt = ValidTime.getInstance();
+	}
+
+	@Test
+	public void testGetValidStamp() {
+		System.out.println(vt.getValidStamp());
+		Date date = new Date();
+		SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyyMMddHHmm");
+		String format = simpleDateFormat.format(date);
+		System.out.println(date + "=" + format);
+		String md5Hex = DigestUtils.md5Hex(format);
+		System.out.println("md5:"+md5Hex);
+	}
+}

@@ -1,0 +1,10 @@
+package main;
+
+import org.apache.commons.codec.binary.Base64;
+
+public class App {
+	public static void main(String[] args) {
+String encodeBase64 = Base64.encodeBase64String("111".getBytes());
+
+	}
+}

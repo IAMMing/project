@@ -1,0 +1,7 @@
+package cn.simple.responsibility;
+
+import cn.simple.domain.OperationResult;
+
+public interface IResponsibility {
+	OperationResult process();
+}

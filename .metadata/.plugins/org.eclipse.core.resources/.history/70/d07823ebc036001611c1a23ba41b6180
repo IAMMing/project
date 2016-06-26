@@ -1,0 +1,13 @@
+package cn.simple.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+@RequestMapping("/10000")
+public class Num2Controller {
+	@RequestMapping("/3")
+	public String num() {
+		return "";
+	}
+}

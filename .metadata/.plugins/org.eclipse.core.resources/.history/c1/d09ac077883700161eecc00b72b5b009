@@ -1,0 +1,37 @@
+package cn.simple.responsibility.impl;
+
+import cn.simple.domain.OperationResult;
+import cn.simple.flow.ISave;
+
+public class Save extends AbstractResponsibility {
+	ISave save;
+
+	public Save(AbstractResponsibility responsibility) {
+		super(responsibility);
+	}
+
+	@Override
+	public OperationResult process() {
+		OperationResult result;
+		if (flow != null) {
+			save = flow.getSave();
+			if (save != null) {
+				result=save.save(house);
+				if(result!=null&&!result.isSuccess())
+				{
+					return result;
+				}
+			}
+			return responsibility.process();
+		}
+		else
+		{
+			result = new OperationResult();
+			result.setSuccess(false);
+			result.setOperation("信息验证");
+			result.setMessage("验证失败，流程获取失败");
+			return result;
+		}
+	}
+
+}

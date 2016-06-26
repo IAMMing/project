@@ -1,0 +1,7 @@
+package cn.simple.flow;
+
+import cn.simple.domain.HouseInfo;
+
+public interface ISave {
+boolean save(HouseInfo info);
+}

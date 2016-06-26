@@ -1,0 +1,13 @@
+package cn.simple.domain;
+
+import cn.simple.responsibility.impl.AbstractResponsibility;
+
+/**
+ * 发布流程
+ * 
+ * @author ldm
+ * @Date 2016年6月21日
+ */
+public class PublishFlow {
+	AbstractResponsibility validHouse;
+}

@@ -1,0 +1,12 @@
+package com.simple.bean;
+
+import org.apache.log4j.Logger;
+
+public class RepositoryDemo {
+	Logger logger = Logger.getLogger(this.getClass());
+	public String test() {
+		String result = "RepositoryDemo.test()";
+		logger.info(result);;
+		return result;
+	}
+}

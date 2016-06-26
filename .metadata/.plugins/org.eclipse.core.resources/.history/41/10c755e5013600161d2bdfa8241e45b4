@@ -1,0 +1,16 @@
+package cn.simple.enumdemo;
+
+public class App {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	enum Demo {
+		private Demo()
+		{}
+	Integer key;
+		String name;
+	}
+}

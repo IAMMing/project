@@ -1,0 +1,8 @@
+package cn.simple.responsibility.impl;
+
+public class Save extends AbstractResponsibility {
+	public Save(AbstractResponsibility responsibility) {
+super();
+	}
+
+}

@@ -1,0 +1,24 @@
+package com.simple.authentication;
+
+public class ValidTime {
+	/**
+	 * 验证有效周期 相当于一个验证码的有效时长
+	 */
+	private int period=10;
+	/**
+	 * 无效波动范围 在有效区间内的先后，无效内不进行验证
+	 */
+	private int invalid=1;
+	public int getPeriod() {
+		return period;
+	}
+	public void setPeriod(int period) {
+		this.period = period;
+	}
+	public int getInvalid() {
+		return invalid;
+	}
+	public void setInvalid(int invalid) {
+		this.invalid = invalid;
+	}
+}
