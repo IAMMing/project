@@ -23,7 +23,6 @@ public class FormController {
 
 	@AvoidDuplicateSubmission(removeToken = true)
 	@RequestMapping("/save")
-	
 	public ModelAndView save() {
 		System.out.println("here is save");
 		ModelAndView mv = new ModelAndView();

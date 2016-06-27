@@ -1,6 +1,0 @@
-package cn.simple.controller;
-
-@Controller
-public class Num2Controller {
-
-}

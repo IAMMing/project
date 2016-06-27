@@ -9,8 +9,15 @@
        http://www.springframework.org/schema/context
        http://www.springframework.org/schema/context/spring-context-4.2.xsd">
 	<description>Spring-MVC公共配置</description>
-
+	<!-- mvc注解识别 -->
 	<mvc:annotation-driven></mvc:annotation-driven>
+
+	<mvc:resources mapping="/js/**" location="/static/" /> 
+	<!-- 表示上述配置的 css 文件不属 viewResolver 解析 -->
+	<mvc:default-servlet-handler  />
+
+
+
 	<!-- 扫描基本包 -->
 	<context:component-scan base-package="cn.simple"
 		use-default-filters="false">

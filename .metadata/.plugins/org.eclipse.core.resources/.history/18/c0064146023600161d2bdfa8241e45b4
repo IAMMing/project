@@ -1,6 +1,0 @@
-package cn.simple.enumdemo;
-
-public class EnumType {
- Integer value;
- String desc;
-}

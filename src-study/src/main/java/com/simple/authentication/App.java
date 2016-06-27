@@ -9,7 +9,13 @@ import org.apache.commons.lang.time.DateUtils;
 public class App {
 	public static void main(String[] args) {
 
+		long d=1467009007465l;
+		
+		
 		Date date = new Date();
+		
+		date.setTime(d);
+		System.out.println(date);
 		
 		Calendar instance = Calendar.getInstance();
 		System.out.println(instance.get(Calendar.YEAR));
