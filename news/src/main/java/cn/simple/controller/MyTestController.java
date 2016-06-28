@@ -42,6 +42,7 @@ public class MyTestController {
 		}
 		mv.addObject("result", search);
 		mv.setViewName("test/list");
+		List<String> lstStr;
 		return mv;
 	}
 
