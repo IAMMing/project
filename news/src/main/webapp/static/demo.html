@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>demo</title>
+	<script src="./jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="./md5.js"></script>
+	<script type="text/javascript" src="./ValidHelper.js"></script>
+	<script type="text/javascript" src="./jquery.request.js"></script>
+</head>
+<body>
+	<script type="text/javascript">
+		var test =new ValidHelper();
+		test.getValidString('');
+		console.log(test.getValidStamp());
+		//$().test('aaaaa');
+		$.request({
+			url:'',
+			data:{aa:'1111'},
+			type:'post'
+		});
+	</script>
+</body>
+</html>
