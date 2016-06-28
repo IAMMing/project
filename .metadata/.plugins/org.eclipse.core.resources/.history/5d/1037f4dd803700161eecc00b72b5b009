@@ -1,0 +1,11 @@
+package cn.simple.responsibility;
+
+import cn.simple.domain.OperationResult;
+/**
+ * 
+ * @author ldm
+ * @Date 2016年6月21日
+ */
+public interface IResponsibility {
+	OperationResult process();
+}

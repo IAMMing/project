@@ -1,0 +1,16 @@
+package cn.simple.responsibility.impl;
+
+import cn.simple.domain.OperationResult;
+
+public class AD extends AbstractResponsibility {
+
+	public AD(AbstractResponsibility responsibility) {
+		// TODO Auto-generated constructor stub
+	}
+	@Override
+	public OperationResult process() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

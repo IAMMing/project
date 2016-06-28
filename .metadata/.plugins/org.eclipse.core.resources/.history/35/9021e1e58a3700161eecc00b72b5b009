@@ -1,0 +1,16 @@
+package cn.simple.demo;
+
+import cn.simple.domain.PublishFlow;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	PublishFlow publishFlow = new PublishFlow();
+    	
+    }
+}

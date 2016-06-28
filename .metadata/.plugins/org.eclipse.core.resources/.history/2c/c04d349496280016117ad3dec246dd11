@@ -1,7 +1,0 @@
-package cn.simple.datasource;
-
-import org.springframework.beans.factory.config.BeanPostProcessor;
-
-public class BeanPostPrcessorImpl implements BeanPostProcessor {
-
-}

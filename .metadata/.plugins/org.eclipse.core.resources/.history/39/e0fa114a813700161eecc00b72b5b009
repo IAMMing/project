@@ -1,0 +1,12 @@
+package cn.simple.domain;
+/**
+ * 返回操作结果
+ * @author ldm
+ * @Date 2016年6月21日
+ */
+public class OperationResult {
+private String operation;
+private String field;
+private String message;
+private boolean success;
+}

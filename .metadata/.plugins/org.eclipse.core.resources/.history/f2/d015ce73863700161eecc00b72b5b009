@@ -1,0 +1,13 @@
+package cn.simple.responsibility.impl;
+
+import cn.simple.domain.OperationResult;
+
+public class Pay extends AbstractResponsibility {
+
+	@Override
+	public OperationResult process() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

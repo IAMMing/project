@@ -1,0 +1,28 @@
+package cn.simple.responsibility.impl;
+
+import cn.simple.domain.OperationResult;
+import cn.simple.flow.IPay;
+
+public class Pay extends AbstractResponsibility {
+	IPay pay;
+
+	public Pay(AbstractResponsibility responsibility) {
+		super(responsibility);
+	}
+
+	@Override
+	public OperationResult process() {
+		OperationResult result;
+		if(flow!=null)
+		{}
+		else
+		{
+			result = new OperationResult();
+			result.setSuccess(false);
+			result.setOperation("支付");
+			result.setMessage("支付失败，流程获取失败");
+			return result;
+		}
+	}
+
+}

@@ -1,0 +1,16 @@
+package cn.simple.responsibility.impl;
+
+import cn.simple.domain.OperationResult;
+
+public class Save extends AbstractResponsibility {
+	public Save(AbstractResponsibility responsibility) {
+		super(responsibility);
+	}
+
+	@Override
+	public OperationResult process() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

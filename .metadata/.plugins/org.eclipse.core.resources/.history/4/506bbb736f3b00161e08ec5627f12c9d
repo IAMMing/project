@@ -1,0 +1,17 @@
+package com.simple.authentication;
+
+public enum Policy {
+	/**
+	 * 严格的验证方式
+	 */
+	STRICT,
+	/**
+	 * 半严格认证
+	 */
+	LAX_STRICT,
+	/**
+	 * 松散验证
+	 */
+	LAX
+
+}

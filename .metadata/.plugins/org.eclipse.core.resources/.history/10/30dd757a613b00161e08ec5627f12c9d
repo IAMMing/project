@@ -1,0 +1,16 @@
+package com.simple.authentication;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class ValidTimeTest {
+
+	@Before
+	public void before()
+	{}
+	@Test
+	public void testGetValidStamp()
+	{
+		
+	}
+}

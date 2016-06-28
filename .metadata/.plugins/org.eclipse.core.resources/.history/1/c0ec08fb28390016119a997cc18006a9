@@ -1,0 +1,11 @@
+package com.simple.authentication;
+
+import java.util.Date;
+
+import org.apache.commons.lang.time.DateUtils;
+
+public class App {
+	public static void main(String[] args) {
+		System.out.println(DateUtils.getFragmentInMinutes(new Date(), 1));
+	}
+}

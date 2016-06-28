@@ -1,8 +1,0 @@
-package cn.simple.service;
-
-import org.springframework.stereotype.Service;
-
-@Service("demoDaoService")
-public class DemoDaoService {
-
-}

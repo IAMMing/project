@@ -1,0 +1,30 @@
+package cn.simple.responsibility.impl;
+
+import cn.simple.domain.OperationResult;
+import cn.simple.flow.ISave;
+
+public class Save extends AbstractResponsibility {
+	ISave save;
+
+	public Save(AbstractResponsibility responsibility) {
+		super(responsibility);
+	}
+
+	@Override
+	public OperationResult process() {
+		OperationResult result;
+		if (flow != null) {
+			save = flow.getSave();
+			if (save != null) {
+				result=save.save(house);
+				if(result!=null&&!result.isSuccess())
+				{
+					
+				}
+			}
+			return responsibility.process();
+		}
+		return null;
+	}
+
+}

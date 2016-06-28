@@ -1,0 +1,7 @@
+package cn.simple.flow.impl;
+
+import cn.simple.flow.IPay;
+
+public class Alipay implements IPay {
+
+}

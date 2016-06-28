@@ -1,0 +1,13 @@
+package com.simple.authentication;
+
+public class ParamModel {
+	/**
+	 * 客户端加密流程
+	 */
+	private String clientEncry;
+	
+	private long clientTimestamp;
+	private Policy policy;
+	private int requestTimes;
+	
+}

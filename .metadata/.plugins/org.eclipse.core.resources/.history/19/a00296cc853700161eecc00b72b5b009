@@ -1,0 +1,13 @@
+package cn.simple.responsibility.impl;
+
+import cn.simple.flow.IAD;
+
+public class BannerAD implements IAD {
+
+	@Override
+	public boolean effect() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

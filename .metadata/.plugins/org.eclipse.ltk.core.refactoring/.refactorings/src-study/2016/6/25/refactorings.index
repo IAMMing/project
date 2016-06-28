@@ -1,0 +1,4 @@
+1465802382126	Extract local variable 'i'
+1466157688813	Extract local variable 'clazz'
+1466157734660	Extract local variable 'superclass'
+1466157757921	Extract local variable 'interfaces'

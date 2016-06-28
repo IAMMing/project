@@ -1,0 +1,30 @@
+package cn.simple.demo;
+
+import cn.simple.domain.HouseInfo;
+import cn.simple.domain.PublishFlow;
+import cn.simple.flow.impl.Alipay;
+import cn.simple.flow.impl.BannerAD;
+import cn.simple.flow.impl.HouseValid;
+import cn.simple.flow.impl.SaveToMysql;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	// 初始化流程中的每个模块
+    	PublishFlow publishFlow = new PublishFlow();
+    	publishFlow.setAd(new BannerAD());
+    	publishFlow.setPay(new Alipay());
+    	publishFlow.setSave(new SaveToMysql());
+    	publishFlow.setValidHouse(new HouseValid());
+    	
+    	HouseInfo house = new HouseInfo();
+    	
+    	
+    	
+    }
+}

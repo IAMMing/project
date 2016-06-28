@@ -1,0 +1,103 @@
+package cn.simple.flow.impl;
+
+import cn.simple.domain.OperationResult;
+import cn.simple.flow.IValid;
+
+public class HouseValid implements IValid{
+
+	@Override
+	public OperationResult valid() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public OperationResult validId() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public OperationResult validTitle() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public OperationResult validAddress() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public OperationResult validAmount() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public OperationResult validArea() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public OperationResult validCity() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public OperationResult validContractMobile() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public OperationResult validDecorate() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public OperationResult validDistrict() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public OperationResult validFloor() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public OperationResult validHall() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public OperationResult validHouseType() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public OperationResult validRenovation() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public OperationResult validRoom() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public OperationResult validVillige() {
+		return null;
+	}
+
+}

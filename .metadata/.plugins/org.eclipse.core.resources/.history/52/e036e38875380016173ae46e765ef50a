@@ -1,0 +1,6 @@
+package com.simple.bean;
+
+public class ServiceDemo {
+public String test()
+{}
+}

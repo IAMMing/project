@@ -1,0 +1,6 @@
+package com.simple.authentication;
+
+public class ParamModel {
+private String clientEncry;
+private long clientTimestamp;
+}

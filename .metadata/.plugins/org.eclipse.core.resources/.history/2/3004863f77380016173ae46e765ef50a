@@ -1,0 +1,44 @@
+package com.simple.spring;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.simple.bean.ComponentDemo;
+import com.simple.bean.ControllerDemo;
+import com.simple.bean.RepositoryDemo;
+import com.simple.bean.ServiceDemo;
+
+/**
+ * Hello world!
+ *
+ */
+public class App {
+	@Autowired
+	 ControllerDemo demo;
+	// 包含注解的包
+	// org.springframework.stereotype 
+	// Component/Controller/Repository/Service
+	//
+	//
+	
+	
+	// org.springframework.beans.factory.annotation
+	// Autowired/Configurable/Lookup/Qualifier/Required/Value
+	
+	
+	public static void main(String[] args) {
+		ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("classpath:spring/spring*.xml");
+		ComponentDemo bean = (ComponentDemo) ctx.getBean("componentDemo");
+		bean.test();
+
+		ControllerDemo bean2 = ctx.getBean("controllerDemo", ControllerDemo.class);
+		bean2.test();
+
+		RepositoryDemo repository = ctx.getBean("repositoryDemo", RepositoryDemo.class);
+		repository.test();
+		
+		ServiceDemo service = ctx.getBean("serviceDemo", ServiceDemo.class);
+		service.test();
+
+	}
+}

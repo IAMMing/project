@@ -1,0 +1,19 @@
+package com.simple.authentication;
+
+import java.util.Calendar;
+import java.util.Date;
+
+import org.apache.commons.lang.time.DateUtils;
+
+public class App {
+	public static void main(String[] args) {
+
+		Date date = new Date();
+		
+		Calendar instance = Calendar.getInstance();
+		
+		System.out.println(instance);
+		
+
+	}
+}

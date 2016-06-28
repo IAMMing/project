@@ -1,0 +1,14 @@
+package cn.simple.flow.impl;
+
+import cn.simple.domain.HouseInfo;
+import cn.simple.flow.ISave;
+
+public class SaveToMysql  implements ISave{
+
+	@Override
+	public boolean save(HouseInfo info) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

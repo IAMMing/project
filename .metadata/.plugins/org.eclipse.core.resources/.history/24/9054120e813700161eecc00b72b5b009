@@ -1,0 +1,15 @@
+package cn.simple.responsibility.impl;
+
+import cn.simple.domain.OperationResult;
+
+public class ValidHouse extends AbstractResponsibility  {
+
+	public ValidHouse(AbstractResponsibility responsibility) {
+		super(responsibility);
+	}
+
+	@Override
+	public OperationResult process() {
+		return null;
+	}
+}

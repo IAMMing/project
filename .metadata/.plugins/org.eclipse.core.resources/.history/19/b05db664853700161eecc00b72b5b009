@@ -1,0 +1,15 @@
+package cn.simple.flow;
+
+import java.util.Date;
+
+/**
+ * 广告模块
+ * 
+ * @author ldm
+ * @Date 2016年6月21日
+ */
+public interface IAD {
+	 Date startTime;
+	 Date endTime;
+	 
+}

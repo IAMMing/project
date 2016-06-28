@@ -1,0 +1,8 @@
+package cn.simple.responsibility.impl;
+
+public class ValidHouse extends AbstractResponsibility {
+
+	public ValidHouse(AbstractResponsibility responsibility) {
+super(responsibility);
+	}
+}

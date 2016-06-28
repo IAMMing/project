@@ -1,0 +1,19 @@
+package cn.simple.flow.impl;
+
+import cn.simple.flow.IPay;
+
+public class Alipay implements IPay {
+
+	@Override
+	public boolean executePay() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean callback() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

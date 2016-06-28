@@ -1,0 +1,12 @@
+package com.simple.bean;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class ControllerDemo {
+	public String test()
+	{
+		String result = "ControllerDemo.test";
+		return result;
+	}
+}

@@ -11,10 +11,24 @@
 			<item value="[name]"/>
 		</list>
 	</section>
+	<section name="MavenCheckoutLocationPage">
+		<list key="scmUrl">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
 		<list key="issueManagementUrl">
+			<item value="http://issues.apache.org/jira/browse/LANG"/>
 		</list>
 		<list key="issueManagementSystem">
+			<item value="jira"/>
 		</list>
 		<list key="ciManagementUrl">
 		</list>
@@ -25,6 +39,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\project_env\wrokspace\src-study"/>
 			<item value="D:\project_env\wrokspace"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -41,18 +56,19 @@
 			<item value="cn.simple"/>
 		</list>
 		<list key="package">
-			<item value="cn.simple.src_study"/>
-			<item value="cn.simple.jvmdemo"/>
-			<item value="org.dubbo.client"/>
-			<item value="org.dubbo.service"/>
-			<item value="org.debbo.service"/>
+			<item value="org.src.spring"/>
+			<item value="cn.simple"/>
+			<item value="cn.simple.command"/>
+			<item value="org.avoid.server"/>
+			<item value="org.avoid.client"/>
+			<item value="org.avoid.common"/>
 		</list>
 		<list key="artifactId">
-			<item value="src-study"/>
-			<item value="jvmdemo"/>
-			<item value="dubbo-client"/>
-			<item value="dubbo-service"/>
-			<item value="debbo-service"/>
+			<item value="src-spring"/>
+			<item value="command"/>
+			<item value="avoid-server"/>
+			<item value="avoid-client"/>
+			<item value="avoid-common"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -74,6 +90,10 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="src-spring"/>
+			<item value="avoid-server"/>
+			<item value="avoid-client"/>
+			<item value="avoid-common"/>
 			<item value="dubbo-client"/>
 			<item value="dubbo-service"/>
 			<item value="debbo-service"/>
@@ -87,12 +107,31 @@
 			<item value="[name]"/>
 		</list>
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\project_env\wrokspace\dubbo-test"/>
+			<item value="D:\source\commons-dbutils-1.6-src"/>
+			<item value="D:\source\commons-lang3-3.4-src"/>
+			<item value="D:\source\commons-lang-master"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="cn.simple"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="src-spring"/>
+			<item value="src-study"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

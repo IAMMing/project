@@ -1,0 +1,17 @@
+package cn.simple.demo;
+
+import cn.simple.domain.PublishFlow;
+import cn.simple.flow.impl.BannerAD;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	PublishFlow publishFlow = new PublishFlow();
+    	publishFlow.setAd(new BannerAD());
+    }
+}

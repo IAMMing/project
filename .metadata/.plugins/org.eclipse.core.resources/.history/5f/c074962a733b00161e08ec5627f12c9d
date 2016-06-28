@@ -1,0 +1,17 @@
+package com.simple.authentication;
+
+public class Param {
+ private String v;
+ /**
+  * 客户端时间戳
+  */
+ private Long t;
+ /**
+  * 客户端验证策略
+  */
+ private String p;
+ /**
+  * 
+  */
+ private int n;
+}

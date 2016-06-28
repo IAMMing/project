@@ -1,0 +1,32 @@
+package com.simple.authentication;
+
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+
+import org.apache.commons.codec.digest.DigestUtils;
+import org.junit.Before;
+import org.junit.Test;
+
+import junit.framework.Assert;
+
+public class ValidTimeTest {
+
+	ValidHelper vt;
+
+	@Before
+	public void before() {
+		vt=new ValidHelper(Calendar.getInstance());
+	}
+
+	@Test
+	public void testGetValidStamp() {
+		Date date = new Date();
+		SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyyMMddHHmm");
+		String format = simpleDateFormat.format(date);
+		System.out.println(date + "=客户端明文：" + format);
+		String md5Hex = DigestUtils.md5Hex(format);
+		System.out.println("客户端密文:" + md5Hex);
+		Assert.assertTrue(vt.valid(md5Hex));
+	}
+}

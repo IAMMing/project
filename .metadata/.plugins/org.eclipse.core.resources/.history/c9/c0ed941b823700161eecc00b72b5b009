@@ -1,0 +1,25 @@
+package cn.simple.domain;
+
+/**
+ * 房源信息
+ * 
+ * @author ldm
+ * @Date 2016年6月21日
+ */
+public class HouseInfo {
+	private int id;
+	private String title;
+	private double amount;
+	private String address;
+	private int room;
+	private int hall;
+	private float area;
+	private int houseType;
+	private int city;
+	private int district;
+	private int villige;
+	private String contractMobile;
+	private String decorate;
+	private String renovation;
+	private int floor;
+}

@@ -1,0 +1,9 @@
+package com.simple.authentication;
+
+public class ValidTimeTest {
+
+	public void testGetValidStamp()
+	{
+		
+	}
+}

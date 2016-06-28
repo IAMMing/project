@@ -1,0 +1,22 @@
+package cn.simple.responsibility;
+
+import cn.simple.domain.OperationResult;
+
+/**
+ * 验证接口
+ * 
+ * @author ldm
+ * @Date 2016年6月21日
+ */
+public interface IValid {
+
+	OperationResult validId();
+	OperationResult validTitle();
+	OperationResult validAddress();
+	OperationResult validAmount();
+	OperationResult validArea();
+	OperationResult validCity();
+	OperationResult validContractMobile();
+	
+	
+}

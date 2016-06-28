@@ -1,0 +1,13 @@
+package com.simple.authentication;
+
+public class Param {
+ private String v;
+ /**
+  * 客户端时间戳
+  */
+ private Long t;
+ /**
+  * 
+  */
+ private String p;
+}

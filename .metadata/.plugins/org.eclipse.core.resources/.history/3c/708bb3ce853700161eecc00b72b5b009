@@ -1,0 +1,12 @@
+package cn.simple.responsibility.impl;
+
+import cn.simple.flow.IAD;
+
+public class BannerAD implements IAD {
+
+	@Override
+	public boolean effect() {
+		return false;
+	}
+
+}

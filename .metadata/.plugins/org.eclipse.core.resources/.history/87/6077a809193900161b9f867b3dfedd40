@@ -1,0 +1,10 @@
+package com.simple.authentication;
+
+public class ValidTime {
+	/**
+	 * 验证有效周期
+	 * 相当于一个验证码的有效时长
+	 */
+private int period;
+
+}
