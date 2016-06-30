@@ -15,5 +15,6 @@ public class App
     	System.out.println(tm.toString());
     	
     	ThreadLocal tl;
+    	ClassLoader cl;
     }
 }
