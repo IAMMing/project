@@ -9,8 +9,11 @@ jQuery.request=function(data)
 	
 	var v=new ValidHelper();
 	var params=v.getValidString();
-	var data={param:data.data};
-	var rp=jQuery.extend({},params,data);
+	var params_r=jQuery.extend({},params,{r:data.data['r']});
+	delete data.data['r'];
+	var data_r={param:'#'+data.data+'#'};
+	var rp=jQuery.extend({},params_r,data_r);
 	data.data=rp;
+	console.log(rp);
 	jQuery.ajax(data);
 }
