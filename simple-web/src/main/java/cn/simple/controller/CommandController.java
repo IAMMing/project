@@ -5,7 +5,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
-import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import com.simple.command.param.Command;
 import com.simple.command.param.InnerCommand;
@@ -50,7 +49,7 @@ public class CommandController {
 		}
 		System.out.println(command.getV());
 		InnerCommand innerCommand = new InnerCommand(command);
-		System.out.println(innerCommand.getAuthString());
+		System.out.println(innerCommand.getAuthString()+"="+innerCommand.auth());
 		return String.format( "forward:/%s",innerCommand.getRequestCommand());
 	}
 }

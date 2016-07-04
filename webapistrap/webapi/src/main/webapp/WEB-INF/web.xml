@@ -45,5 +45,5 @@
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 
-	<display-name>simple-web</display-name>
+	<display-name>webapi</display-name>
 </web-app>

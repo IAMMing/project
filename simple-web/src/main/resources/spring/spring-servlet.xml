@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:context="http://www.springframework.org/schema/context"
 	xmlns:mvc="http://www.springframework.org/schema/mvc"
 	xsi:schemaLocation="http://www.springframework.org/schema/mvc
        http://www.springframework.org/schema/mvc/spring-mvc-4.2.xsd
@@ -19,8 +20,7 @@
 
 
 	<!-- 扫描基本包 -->
-	<context:component-scan base-package="cn.simple"
-		use-default-filters="false">
+	<context:component-scan base-package="cn.simple" use-default-filters="false">
 		<!-- 只扫描Controller 白名单 -->
 		<context:include-filter type="annotation"
 			expression="org.springframework.stereotype.Controller" />

@@ -11,7 +11,7 @@
 <script type="text/javascript" src="./static/jquery.request.js"></script>
 </head>
 <body>
-	首页原始加载
+	首页原始加载<br>
 	<a onclick="test()">测试验证加载</a>
 	<script type="text/javascript">
 		function test() {
@@ -23,7 +23,7 @@
 				},
 				type : 'post',
 				success : function(response) {
-					alert(response);
+					alert(response.name);
 				}
 			});
 		}
