@@ -37,10 +37,11 @@ public class SpringConfig {
 		redisTemplate.afterPropertiesSet();
 		return redisTemplate;
 	}
+
 	@Bean
 	public CacheManager cacheManager(RedisTemplate redisTemplate) {
 		RedisCacheManager cacheManager = new RedisCacheManager(redisTemplate);
 		return cacheManager;
 	}
-	
+
 }
