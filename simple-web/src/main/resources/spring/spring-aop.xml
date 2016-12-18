@@ -12,16 +12,18 @@
 		http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.2.xsd">
 
 	<description>Spring-common公共配置</description>
-<!-- 	<aop:config> -->
-<!-- 		<aop:aspect id="asp" ref="controllerTest"> -->
-<!-- 			<aop:pointcut expression="execution(* cn.simple.controller..TestController.*(..) )" -->
-<!-- 				id="target" /> -->
-<!-- 			<aop:before method="beforeTest" pointcut-ref="target" /> -->
-
-<!-- 			<aop:after method="afterTest" pointcut-ref="target" /> -->
-<!-- 		</aop:aspect>		 -->
-<!-- 	</aop:config> -->
-<!-- 	<aop:config> -->
-<!-- 		<aop:advisor advice-ref="controllerTest2" pointcut-ref="target" />		 -->
-<!-- 	</aop:config> -->
+	<aop:aspectj-autoproxy />
+	<bean class="cn.simple.interceptor.AspectTest"></bean>
+	<!-- <aop:config> -->
+	<!-- <aop:aspect id="asp" ref="controllerTest"> -->
+	<!-- <aop:pointcut expression="execution(* cn.simple.controller..TestController.*(..) 
+		)" -->
+	<!-- id="target" /> -->
+	<!-- <aop:before method="beforeTest" pointcut-ref="target" /> -->
+	<!-- <aop:after method="afterTest" pointcut-ref="target" /> -->
+	<!-- </aop:aspect> -->
+	<!-- </aop:config> -->
+	<!-- <aop:config> -->
+	<!-- <aop:advisor advice-ref="controllerTest2" pointcut-ref="target" /> -->
+	<!-- </aop:config> -->
 </beans>

@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Aspect
 public class TestAOP {
-	@Pointcut("execution(* cn.simple.controller.TestController.*(..) )")
+	@Pointcut("execution(** cn.simple.controller.TestController.*(..))")
 	public void anyMethod() {
 		System.out.println("point cut");
 	}
@@ -22,7 +22,7 @@ public class TestAOP {
 	public void beforeTest(JoinPoint point) throws DupliException {
 
 		
-		throw new DupliException("不能重复提交");
+		
 	}
 
 	@After("anyMethod()")

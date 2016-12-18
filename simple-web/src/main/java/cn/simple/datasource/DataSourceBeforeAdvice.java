@@ -9,7 +9,6 @@ import cn.simple.annotation.CurrentDataSource;
 public class DataSourceBeforeAdvice implements MethodBeforeAdvice {
 
 	public void before(Method method, Object[] args, Object target) throws Throwable {
-
 		CurrentDataSource cds = null;
 		cds = target.getClass().getAnnotation(CurrentDataSource.class);
 		if (cds == null) {
