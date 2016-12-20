@@ -20,12 +20,24 @@ public class TestCache {
 		System.out.println(System.currentTimeMillis());
 		System.out.println("time:" + getTime.getTimespan());
 		try {
-			Thread.sleep(10*1000);
+			Thread.sleep(10 * 1000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		System.out.println(System.currentTimeMillis());
 		System.out.println("time:" + getTime.getTimespan());
+	}
+
+	@Test
+	public void testAop() {
+		System.out.println("==========" + getTime.testAop());
+		try {
+			Thread.sleep(2000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		System.out.println("=====**=====" + getTime.testAop());
 	}
 }

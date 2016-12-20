@@ -6,6 +6,7 @@ import org.springframework.cache.concurrent.ConcurrentMapCacheManager;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.ImportResource;
 
 /**
  * 
@@ -16,8 +17,8 @@ import org.springframework.context.annotation.Configuration;
  * @date 2016年12月18日
  */
 @Configuration
-@EnableCaching
 @ComponentScan(basePackages = "com.zero.cache.map")
+@ImportResource(locations = { "classpath:aop.xml" })
 public class SpringConfig {
 	@Bean
 	public CacheManager cacheManager() {
