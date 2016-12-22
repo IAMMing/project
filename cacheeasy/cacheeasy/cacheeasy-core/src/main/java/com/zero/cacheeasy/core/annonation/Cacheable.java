@@ -1,4 +1,4 @@
-package com.zero.cacheeasy.core.anno;
+package com.zero.cacheeasy.core.annonation;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
