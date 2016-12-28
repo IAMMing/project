@@ -12,7 +12,6 @@
 	<url>http://maven.apache.org</url>
 	<modules>
 		<module>cacheeasy-contact</module>
-		<module>cacheeasy-core</module>
 		<module>cacheeasy-map</module>
 		<module>cacheeasy-config</module>
 	</modules>
