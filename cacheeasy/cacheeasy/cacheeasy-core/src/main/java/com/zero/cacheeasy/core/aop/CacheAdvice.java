@@ -1,5 +1,9 @@
 package com.zero.cacheeasy.core.aop;
 
+import java.lang.reflect.InvocationTargetException;
+
+import org.apache.commons.beanutils.BeanUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
@@ -54,5 +58,53 @@ public class CacheAdvice {
 			}
 		}
 		return joinPoint.proceed();
+	}
+
+	/**
+	 * 解析缓存的key
+	 * 
+	 * @return
+	 */
+	private String analyzeCacheKey(Object[] methodArgs, String setKey) {
+		if (StringUtils.isEmpty(setKey)) {
+			return null;
+		}
+		// 只解析包含有变量值的参数
+		if (setKey.contains("{") && setKey.contains("}")) {
+			String varKey = StringUtils.substringBetween(setKey, "{", "}");
+			// 验证从参数中取变量
+			if (varKey.startsWith("args")) {
+				// 取参数索引
+				String varIndex = StringUtils.substringBetween(varKey, "[", "]");
+				if (Integer.parseInt(varIndex) < methodArgs.length - 1) {
+					// 获取指定参数
+					Object arg = methodArgs[Integer.parseInt(varIndex)];
+					if (varKey.indexOf(".") > -1) {
+
+						try {
+							// 获取属性值
+							String simpleProperty = BeanUtils.getSimpleProperty(arg, varKey.split("\\.")[0]);
+							return setKey.replace("{" + varKey + "}", simpleProperty);
+						} catch (Exception e) {
+							// TODO Auto-generated catch block
+							e.printStackTrace();
+						}
+						return setKey;
+					} else {
+						return setKey.replace("{" + varKey + "}", String.valueOf(arg));
+					}
+				} else {
+					return setKey;
+				}
+			} else {
+				return setKey;
+			}
+		} else {
+			return setKey;
+		}
+	}
+
+	public static void main(String[] args) {
+		System.out.println(StringUtils.substringBetween("sfaf{13246}sdfsdf", "{", "}"));
 	}
 }
