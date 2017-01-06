@@ -1,16 +1,19 @@
 package com.zero.cacheeasy.core.aop;
 
-import java.lang.reflect.InvocationTargetException;
+import java.lang.annotation.Annotation;
+
+import javax.annotation.Resource;
 
 import org.apache.commons.beanutils.BeanUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.aspectj.lang.ProceedingJoinPoint;
+import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;
-import org.aspectj.lang.annotation.Before;
 import org.aspectj.lang.annotation.Pointcut;
 import org.aspectj.lang.reflect.MethodSignature;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.stereotype.Component;
 
 import com.alibaba.fastjson.JSON;
 import com.zero.cacheeasy.core.annonation.Cache;
@@ -30,30 +33,44 @@ import com.zero.cacheeasy.core.factory.EasyCacheManager;
 public class CacheAdvice {
 	private static final Logger logger = LoggerFactory.getLogger(CacheAdvice.class);
 
-	EasyCacheManager easyCacheManager;
+	private EasyCacheManager easyCacheManager;
 
-	@Pointcut("execution(* *(..))")
+	public EasyCacheManager getEasyCacheManager() {
+		return easyCacheManager;
+	}
+
+	public void setEasyCacheManager(EasyCacheManager easyCacheManager) {
+		this.easyCacheManager = easyCacheManager;
+	}
+
+	@Pointcut("execution(public * *(..))")
 	public void cachePointCut() {
 	}
 
-	@Before(value = "cachePointCut()")
+	@Around("cachePointCut()")
 	public Object around(ProceedingJoinPoint joinPoint) throws Throwable {
 		MethodSignature ms = (MethodSignature) joinPoint.getSignature();
+		logger.info("returnType：" + ms.getMethod().getReturnType().getName());
+		logger.info("GenericReturnType():" + ms.getMethod().getGenericReturnType().getClass().getName());
+		Annotation[] annotations = ms.getMethod().getDeclaredAnnotations();// .getMethod().getAnnotations();
+		for (Annotation annotation : annotations) {
+			System.out.println(annotation.getClass().getName());
+		}
 		// 存储缓存数据
 		Cache annoCache = ms.getMethod().getAnnotation(Cache.class);
 		if (annoCache != null) {
 			Object proceed = joinPoint.proceed();
-			easyCacheManager.putCache(annoCache.key, JSON.toJSONString(proceed));
+			easyCacheManager.putCache(annoCache.key(), JSON.toJSONString(proceed));
 			return proceed;
 		}
 		// 可缓存对象
 		Cacheable annoCacheable = ms.getMethod().getAnnotation(Cacheable.class);
 		if (annoCacheable != null) {
-			if (easyCacheManager.hasCache(annoCacheable.key)) {
-				return easyCacheManager.getCache(annoCacheable.key);
+			if (easyCacheManager.hasCache(annoCacheable.key())) {
+				return Long.parseLong(easyCacheManager.getCache(annoCacheable.key()));
 			} else {
 				Object obj = joinPoint.proceed();
-				easyCacheManager.putCache(annoCacheable.key, JSON.toJSONString(obj));
+				easyCacheManager.putCache(annoCacheable.key(), JSON.toJSONString(obj));
 				return obj;
 			}
 		}
