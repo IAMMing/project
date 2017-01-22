@@ -23,4 +23,14 @@
 		<aop:around method="around" pointcut-ref="aoptarget" />
 		</aop:aspect>
 	</aop:config>
+	
+	<bean id="bbb" class="com.zero.cacheeasy.core.aop.CacheAdvice">
+		<property name="easyCacheManager" ref="mapManager"></property>
+	</bean>
+	<aop:config>
+		<aop:aspect id="testAop1" ref="bbb" >
+		<aop:pointcut expression="execution(* com.zero.cacheeasy.map.ExecBean.*(..))" id="aoptarget1"/>
+		<aop:around method="around" pointcut-ref="aoptarget1" />
+		</aop:aspect>
+	</aop:config>
 </beans>

@@ -17,7 +17,7 @@ import org.springframework.context.annotation.ImportResource;
  * @date 2016年12月18日
  */
 @Configuration
-@ComponentScan(basePackages = "com.zero.cache.map")
+@ComponentScan(basePackages = "com")
 @ImportResource(locations = { "classpath:aop.xml" })
 public class SpringConfig {
 	@Bean

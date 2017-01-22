@@ -18,6 +18,11 @@
 		<spring.version>4.2.5.RELEASE</spring.version>
 	</properties>
 	<dependencies>
+		<dependency>
+			<groupId>com.zero</groupId>
+			<artifactId>cacheeasy-core</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 		<!-- spring 配置开始 -->
 		<dependency>
 			<groupId>org.springframework</groupId>
