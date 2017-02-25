@@ -25,5 +25,6 @@
   <modules>
     <module>spring-cache-redis</module>
     <module>spring-cache-map</module>
+    <module>spring-dynamic-activemq</module>
   </modules>
 </project>
