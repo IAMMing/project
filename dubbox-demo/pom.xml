@@ -125,7 +125,6 @@
 		</dependency> -->
 
 		<!--dubbo end -->
-
 		<!--spring start -->
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -175,6 +174,11 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-jms</artifactId>
+			<version>${spring.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-webmvc</artifactId>
 			<version>${spring.version}</version>
 		</dependency>
 		<dependency>
